@@ -97,7 +97,8 @@ for i in sbd:
     for j in ttcscn:
         if j[0] == i:
             sv_ttcscn = j[3]
-    st = sv(i,hvt,sv_atcsdl,sv_athdh,sv_csattt,sv_csltmm,sv_ptpmud,sv_qlxdcs,sv_ttcscn)        
+    st = sv(i,hvt,sv_atcsdl,sv_athdh,sv_csattt,sv_csltmm,sv_ptpmud,sv_ttcscn,sv_qlxdcs)   
+  
     all_sv.append({'sbd':i,'HVT': hvt,'DTB':st.getDTB()})
     
 newlist = sorted(all_sv, key=lambda d: d['DTB'], reverse=True)
@@ -107,3 +108,4 @@ for  i in newlist:
   
     output = i['sbd']+'\t|\t'+f'{name:<20}'+'\t\t\t\t|\t'+str(i['DTB'])+'\n'
     w.write(str(output))
+    

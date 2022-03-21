@@ -1,3 +1,4 @@
+import math
 hsatcsdl = 2
 hscsltmm = 3
 hscsattt = 3
@@ -6,7 +7,7 @@ hsqlxdcs = 2
 hsptpmud = 2
 hsttcscn = 3
 
-sum_tin = 18
+sum_tin = 18.0
 class sv:
     def __init__(self,hvt,sbd,atcsdl,athdh,csattt,csltmm,ptpmud,ttcscn,qlxdcs):
         self.sbd = sbd
@@ -23,5 +24,6 @@ class sv:
         db = (self.atcsdl*hsatcsdl + self.athdh*hsathdh + self.csatt*hscsattt + self.csltmm*hscsltmm + self.ptpmud*hsptpmud + self.ttcscn*hsttcscn + self.qlxdcs*hsqlxdcs)/sum_tin
         return round(db, 2)
         
-
+    def toString(self):
+        return self.sbd + ' ' + self.hvt + ' ' + str(self.atcsdl) + ' ' + str(self.athdh) + ' ' + str(self.csatt) + ' ' + str(self.csltmm) + ' ' + str(self.ptpmud) + ' ' + str(self.ttcscn) + ' ' + str(self.qlxdcs) + ' ' + str(self.getDTB())
     
