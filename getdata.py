@@ -6,7 +6,7 @@ contents = f.read()
 atcsdl = (json.loads(contents))
     
 f = open("data/athdh.txt",'r',encoding='utf-8')
-contents = f.read()
+contents = f.read() 
 athdh = json.loads(contents)
 
 f = open("data/csattt.txt",'r',encoding='utf-8')
@@ -97,7 +97,7 @@ for i in sbd:
     for j in ttcscn:
         if j[0] == i:
             sv_ttcscn = j[3]
-    st = sv(i,hvt,sv_atcsdl,sv_athdh,sv_csattt,sv_csltmm,sv_ptpmud,sv_qlxdcs,sv_ttcscn)        
+    st = sv(hvt,i,float(sv_atcsdl),float(sv_athdh),float(sv_csattt),float(sv_csltmm),float(sv_ptpmud),float(sv_ttcscn),float(sv_qlxdcs))        
     all_sv.append({'sbd':i,'HVT': hvt,'DTB':st.getDTB()})
     
 newlist = sorted(all_sv, key=lambda d: d['DTB'], reverse=True)
@@ -105,5 +105,5 @@ w = open('data/all_sv.txt','w',encoding='utf-8')
 for  i in newlist:
     name = i['HVT']
   
-    output = i['sbd']+'\t|\t'+f'{name:<20}'+'\t\t\t\t|\t'+str(i['DTB'])+'\n'
+    output = i['sbd']+'\t|\t'+f'{name:<30}'+'\t\t\t\t|\t'+str(i['DTB'])+'\n'
     w.write(str(output))
