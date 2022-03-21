@@ -1,345 +1,345 @@
-AT150443	|	Nguyễn Thị Ninh     				|	3.6
-AT150203	|	Hoàng Việt Anh      				|	3.58
-AT150204	|	Trần Cao Minh Bách  				|	3.56
-AT150428	|	Võ Thanh Lâm        				|	3.56
-AT150302	|	Nguyễn Thị Vân Anh  				|	3.53
-AT150449	|	Nguyễn Thanh Sỹ     				|	3.52
-AT150451	|	Phùng Văn Thành     				|	3.52
-AT150307	|	Trần Văn Công       				|	3.47
-AT150641	|	Đỗ Thị Hồng Nhung   				|	3.47
-AT150446	|	Võ Thị Tú Phương    				|	3.47
-AT150247	|	Nguyễn Mỹ Tâm       				|	3.47
-AT150120	|	Trần Tất Hòa        				|	3.42
-AT150328	|	Kiều Duy Khánh      				|	3.42
-AT150453	|	Hoàng Thị Thảo      				|	3.42
-AT150553	|	Nguyễn Thị Phương Thảo				|	3.42
-AT150408	|	Lương Hoài Dung     				|	3.41
-AT150335	|	Trần Thế Long       				|	3.41
-AT150317	|	Nguyễn Đàm Minh Hiếu				|	3.38
-AT150608	|	Đỗ Huy Đức          				|	3.36
-AT150157	|	Trần Thị Huyền Thư  				|	3.36
-AT150364	|	Bùi Thị Hải Yến     				|	3.36
-AT150643	|	Trần Văn Quắc       				|	3.33
-AT150547	|	Quyền Hồng Sơn      				|	3.33
-AT150255	|	Hà Văn Thiệu        				|	3.31
-AT150156	|	Phạm Thị Thu        				|	3.31
-AT150504	|	Vũ Thị Ánh          				|	3.28
-AT150359	|	Dương Quốc Tuấn     				|	3.28
-AT150502	|	Mai Đức Nam Anh     				|	3.27
-AT150657	|	Đào Thị Huyền Trang 				|	3.27
-AT150539	|	Nguyễn Thị Huyền My 				|	3.26
-AT150563	|	Lê Hoàng Vũ         				|	3.26
-AT150619	|	Nguyễn Hoàng Hiệp   				|	3.24
-AT150145	|	Nguyễn Thị Phương   				|	3.24
-AT150648	|	Đỗ Đình Thanh       				|	3.24
-AT150401	|	Nguyễn Thị Lan Anh  				|	3.22
-AT150515	|	Lê Minh Hà          				|	3.22
-AT150121	|	Nguyễn Minh Hoàng   				|	3.22
-AT150153	|	Hoàng Văn Thành     				|	3.22
-AT150354	|	Hoàng Thị Thúy      				|	3.22
-AT150108	|	Hoàng Chấn Dương    				|	3.19
-AT150611	|	Nguyễn Tuấn Dương   				|	3.19
-AT150615	|	Ngô Xuân Hà         				|	3.19
-AT150415	|	Lương Hữu Hải       				|	3.19
-AT150420	|	Phạm Thái Hoàng     				|	3.19
-AT150625	|	Vũ Quang Huy        				|	3.19
-AT150235	|	Đàm Trung Long      				|	3.19
-AT150646	|	Trương Mạnh Tài     				|	3.19
-AT150551	|	Phạm Văn Thái       				|	3.19
-AT150257	|	Lê Văn Thuận        				|	3.19
-AT150102	|	Vũ Trần Hoàng Anh   				|	3.17
-AT150622	|	Lê Thị Hương        				|	3.17
-AT150230	|	Nguyễn Đình Lâm     				|	3.17
-AT150237	|	Vũ Thành Luân       				|	3.17
-AT150656	|	Bùi Thanh Trà       				|	3.17
-AT150164	|	Vũ Viết Tùng        				|	3.17
-AT150414	|	Lê Thị Ngọc Hà      				|	3.15
-AT150554	|	Nguyễn Tiến Thịnh   				|	3.15
-AT150331	|	Nguyễn Thị Linh     				|	3.14
-AT150339	|	Lê Thị Ngọc         				|	3.14
-AT150356	|	Đặng Thị Huyền Trang				|	3.14
-AT150263	|	Trần Quang Tuấn     				|	3.14
-AT150560	|	Trần Anh Tuấn       				|	3.13
-AT150531	|	Nguyễn Văn Lâm      				|	3.12
-AT150309	|	Ngô Anh Duân        				|	3.11
-AT150513	|	Nguyễn Trung Đức    				|	3.11
-AT150614	|	Bùi Tiến Giang      				|	3.11
-AT150617	|	Nguyễn Ngọc Hiếu    				|	3.11
-AT150627	|	Trịnh Văn Kiên      				|	3.11
-AT150147	|	Đỗ Minh Quyết       				|	3.11
-AT150355	|	Chu Ngọc Thủy       				|	3.11
-AT150357	|	Phạm Thị Diễm Trinh 				|	3.11
-AT150466	|	Phạm Thị Yến        				|	3.11
-AT150310	|	Trần Thị Dung       				|	3.09
-AT150542	|	Đỗ Quý Nguyễn       				|	3.09
-AT150441	|	Phạm Thị Ngọc       				|	3.08
-AT150456	|	Ngô Quang Thiên     				|	3.08
-AT150206	|	Bùi Huy Chiến       				|	3.06
-AT150606	|	Vũ Tài Cương        				|	3.06
-AT150107	|	Nguyễn Mạnh Cường   				|	3.06
-AT150110	|	Nguyễn Tiến Đạt     				|	3.06
-AT150524	|	Nguyễn Thị Lan Hương				|	3.06
-AT150528	|	Đặng Duy Bảo Khánh  				|	3.06
-AT150543	|	Ngô Trí Nhật        				|	3.06
-AT150652	|	Phạm Hữu Thông      				|	3.06
-AT150540	|	Trần Văn Nam        				|	3.05
-AT150201	|	Bạch Trường An      				|	3.03
-AT150407	|	Nguyễn Trịnh Thanh Cường				|	3.03
-AT150323	|	Dương Quang Huy     				|	3.03
-AT150637	|	Vũ Bình Minh        				|	3.03
-AT150457	|	Phan Thị Thanh Thủy 				|	3.03
-AT150220	|	Đặng Thị Thu Hoà    				|	3.02
-AT150557	|	Trần Thị Trang      				|	3.02
-AT150432	|	Nguyễn Tiến Long    				|	3.01
-AT150311	|	Lê Tiến Dũng        				|	3.0
-AT150429	|	Vũ Thị Thùy Linh    				|	2.99
-AT150638	|	Đỗ Hoài Nam         				|	2.99
-AT150618	|	Lưu Hiệu            				|	2.98
-AT150626	|	Nguyễn Thị Ngọc Huyền				|	2.98
-AT150430	|	Lê Văn Lộc          				|	2.98
-AT150610	|	Nguyễn Tấn Dũng     				|	2.97
-AT150413	|	Phạm Kiều Giang     				|	2.97
-AT150503	|	Trần Thị Ngọc Anh   				|	2.95
-AT150112	|	Nguyễn Thiện Đô     				|	2.94
-AT150616	|	Mai Đại Hải         				|	2.94
-AT150116	|	Nguyễn Thảo Hạnh    				|	2.94
-AT150254	|	Lê Xuân Thiện       				|	2.94
-AT150462	|	Nguyễn Anh Tuấn     				|	2.94
-AT150314	|	Vũ Thành Đạt        				|	2.92
-AT150118	|	Trần Minh Hiếu      				|	2.92
-AT150126	|	Lê Quang Huy        				|	2.92
-AT150124	|	Tạ Quang Hứa        				|	2.92
-AT150644	|	Nguyễn Mạnh Quân    				|	2.92
-AT150150	|	Lê Công Sản         				|	2.92
-AT150259	|	Ngô Thị Trinh       				|	2.92
-AT150450	|	Trần Quang Thái     				|	2.91
-AT150258	|	Trần Thị Trang      				|	2.91
-AT150507	|	Nguyễn Nam Cường    				|	2.89
-AT150134	|	Vũ Hoàng Long       				|	2.89
-AT150649	|	Trịnh Đình Thành    				|	2.89
-AT150419	|	Phạm Thị Thanh Hoa  				|	2.88
-AT150223	|	Nguyễn Hữu Huân     				|	2.88
-AT150135	|	Bùi Ngọc Long       				|	2.88
-AT150536	|	Vũ Đức Long         				|	2.88
-AT150465	|	Nguyễn Long Vũ      				|	2.88
-AT150129	|	Nguyễn Trí Khanh    				|	2.87
-AT150535	|	Đoàn Ngọc Long      				|	2.87
-AT150444	|	Nguyễn Thị Oanh     				|	2.87
-AT150549	|	Ngô Văn Tâm         				|	2.87
-AT150113	|	Vũ Đình Đức         				|	2.86
-AT150325	|	Nguyễn Thị Huyền    				|	2.86
-AT150329	|	Phan Trọng Khiêm    				|	2.86
-AT150136	|	Nguyễn Hải Long     				|	2.86
-AT150431	|	Vũ Hoàng Long       				|	2.86
-AT150240	|	Phạm Đức Minh       				|	2.86
-AT150244	|	Trịnh Việt Phương   				|	2.86
-AT150654	|	Phan Xuân Tính      				|	2.86
-AT150659	|	Nguyễn Quốc Tuấn    				|	2.86
-AT150512	|	Đặng Trọng Đạt      				|	2.84
-AT150521	|	Nguyễn Việt Hoàng   				|	2.84
-AT150533	|	Nguyễn Thanh Long   				|	2.83
-AT150141	|	Nguyễn Văn Nghĩa    				|	2.83
-AT150342	|	Đặng Hữu Phụng      				|	2.83
-AT150545	|	Lê Thị Phượng       				|	2.83
-AT150455	|	Hoàng Thị Thêu      				|	2.83
-AT150160	|	Trần Đức Toàn       				|	2.83
-AT150461	|	Đỗ Thanh Tuấn       				|	2.83
-AT150601	|	Đặng Thị Mai Anh    				|	2.81
-AT150609	|	Đinh Thị Phương Dung				|	2.81
-AT150532	|	Nguyễn Duy Linh     				|	2.81
-AT150332	|	Lê Gia Long         				|	2.81
-AT150538	|	Bùi Tuấn Minh       				|	2.81
-AT150349	|	Vũ Duy Thành        				|	2.8
-AT150406	|	Bùi Thành Công      				|	2.78
-AT150508	|	Nguyễn Thùy Dung    				|	2.78
-AT150621	|	Nguyễn Tiến Hưng    				|	2.78
-AT150552	|	Quản Đức Thắng      				|	2.78
-AT150130	|	Dương Khánh Lâm     				|	2.77
-AT150241	|	Lã Hải Nam          				|	2.77
-AT150345	|	Trương Thị Quý      				|	2.77
-AT150346	|	Cao Nguyễn Sơn      				|	2.77
-AT150558	|	Lê Quốc Trung       				|	2.77
-AT150422	|	Đỗ Chí Hùng         				|	2.76
-AT150505	|	Phạm Hữu Bằng       				|	2.75
-AT150417	|	Hoàng Đức Hiếu      				|	2.75
-AT150330	|	Nguyễn Phú Lâm      				|	2.75
-AT150631	|	Nguyễn Văn Lĩnh     				|	2.75
-AT150138	|	Đào Văn Mạnh        				|	2.75
-AT150252	|	Đặng Tiến Thành     				|	2.75
-AT150304	|	Lê Ngọc Ánh         				|	2.74
-AT150207	|	Nguyễn Hữu Cường    				|	2.74
-AT150225	|	Đỗ Duy Hưng         				|	2.74
-AT150104	|	Hồ Việt Bắc         				|	2.73
-AT150607	|	Nguyễn Đình Duẩn    				|	2.73
-AT150510	|	Nguyễn Tài Dương    				|	2.73
-AT150647	|	Hoàng Đức Thái      				|	2.73
-AT150105	|	Vũ Tuấn Cảnh        				|	2.72
-AT150308	|	Nguyễn Văn Cường    				|	2.72
-AT150517	|	Chu Văn Hiếu        				|	2.72
-AT150318	|	Thân Ngọc Hiếu      				|	2.72
-AT150527	|	Nguyễn Mỹ Huyền     				|	2.72
-AT150146	|	Bình Văn Quyền      				|	2.72
-AT150210	|	Nguyễn Văn Dũng     				|	2.69
-AT150117	|	Nguyễn Đức Hải      				|	2.69
-AT150221	|	Trịnh Minh Hoàng    				|	2.69
-AT150224	|	Nguyễn Đình Hùng    				|	2.69
-AT150232	|	Phạm Đỗ Thùy Linh   				|	2.69
-AT150537	|	Nguyễn Văn Mạnh     				|	2.69
-AT150344	|	Vũ Như Quang        				|	2.69
-AT150548	|	Phạm Đức Tài        				|	2.69
-AT150152	|	Đoàn Khắc Thành     				|	2.69
-AT150106	|	Lê Văn Chiến        				|	2.67
-AT150313	|	Đào Văn Dương       				|	2.67
-AT150514	|	Nguyễn Ngọc Trường Giang				|	2.67
-AT150518	|	Nguyễn Đình Hiệp    				|	2.67
-AT150623	|	Nguyễn Thị Bích Hường				|	2.67
-AT150628	|	Nguyễn Văn Mạnh     				|	2.67
-AT150639	|	Trần Đại Nghĩa      				|	2.67
-AT150316	|	Nguyễn Văn Hậu      				|	2.66
-AT150266	|	Nguyễn Văn Vỹ       				|	2.66
-AT150216	|	Nguyễn Minh Hằng    				|	2.64
-AT150655	|	Trần Văn Toán       				|	2.64
-AT150463	|	Nguyễn Thanh Tùng   				|	2.64
-AT150661	|	Phạm Thị Thúy Vân   				|	2.64
-AT150562	|	Trịnh Khắc Vinh     				|	2.64
-AT150154	|	Nguyễn Thu Thảo     				|	2.62
-AT150360	|	Nguyễn Anh Tuấn     				|	2.62
-AT150522	|	Kiều Việt Hùng      				|	2.61
-AT150127	|	Nguyễn Quốc Huy     				|	2.61
-AT150534	|	Phạm Ngọc Long      				|	2.61
-AT150351	|	Lê Văn Thắng        				|	2.61
-AT150155	|	Phạm Trọng Thiện    				|	2.61
-AT150361	|	Tạ Ngọc Tuệ         				|	2.61
-AT150529	|	Vũ Văn Khiêm        				|	2.59
-AT150333	|	Vũ Hoàng Long       				|	2.58
-AT150403	|	Lò Thị Ngọc Anh     				|	2.56
-AT150410	|	Lê Hải Dương        				|	2.56
-AT150334	|	Đào Hải Long        				|	2.56
-AT150350	|	Bùi Tiến Thành      				|	2.56
-AT150459	|	Đào Thị Trang       				|	2.56
-AT150109	|	Phạm Xuân Diệu      				|	2.53
-AT150336	|	Nguyễn Đức Mạnh     				|	2.52
-AT150140	|	Đỗ Văn Nam          				|	2.52
-AT150348	|	Vũ Ngọc Thanh       				|	2.52
-AT150640	|	Hoàng Anh Nhật      				|	2.5
-AT150651	|	Lê Hoàng Đại Thắng  				|	2.5
-AT150301	|	Đào Thị Huyền Anh   				|	2.47
-AT150305	|	Đỗ Xuân Bách        				|	2.47
-AT150326	|	Phùng Khắc Huynh    				|	2.47
-AT150137	|	Trần Hùng Mạnh      				|	2.47
-AT150447	|	Vũ Hà Quang         				|	2.47
-AT150245	|	Lê Văn Sớm          				|	2.47
-AT150248	|	Phạm Cơ Thạch       				|	2.47
-AT150460	|	Lương Quang Trung   				|	2.47
-AT150658	|	Nguyễn Quang Trường 				|	2.47
-AT150603	|	Nguyễn Đức Anh      				|	2.44
-AT150215	|	Đỗ Cao Đức          				|	2.44
-AT150321	|	Trần Thị Ánh Hồng   				|	2.44
-AT150233	|	Đỗ Bá Long          				|	2.44
-AT150440	|	Lưu Công Minh       				|	2.44
-AT150556	|	Trần Văn Tín        				|	2.44
-AT150202	|	Đỗ Tuấn Anh         				|	2.42
-AT150320	|	Đặng Đình Hoàng     				|	2.42
-AT150423	|	Lê Đức Hưng         				|	2.42
-AT150530	|	Trần Tuấn Lâm       				|	2.42
-AT150458	|	Trần Thị Huyền Trang				|	2.41
-AT150559	|	Nguyễn Trọng Tuấn   				|	2.41
-AT150122	|	Hoàng Nhật Hồng     				|	2.39
-AT150327	|	Mai Văn Khá         				|	2.39
-AT150148	|	Nguyễn Thị Quỳnh    				|	2.39
-AT150162	|	Ngọc Văn Trường     				|	2.39
-AT150226	|	Nguyễn Quang Huy    				|	2.36
-AT150234	|	Phan Châu Long      				|	2.36
-AT150438	|	Đoàn Thị Ngọc Mai   				|	2.36
-AT150208	|	Chẩu Đình Doanh     				|	2.34
-AT150435	|	Lê Thế Long         				|	2.34
-AT150605	|	Đỗ Quang Bính       				|	2.33
-AT150411	|	Nguyễn Thành Đạt    				|	2.33
-AT150142	|	Vũ Cao Nguyên       				|	2.33
-AT150149	|	Phùng Tiến San      				|	2.33
-AT150256	|	Nguyễn Đăng Thuần   				|	2.33
-AT150662	|	Ngô Đoàn Vượng      				|	2.33
-AT150212	|	Nguyễn Tuấn Đạt     				|	2.31
-AT150519	|	Nguyễn Thị Thanh Hoa				|	2.31
-AT150425	|	Bùi Đoàn Quang Huy  				|	2.31
-AT150125	|	Lê Viết Hưng        				|	2.3
-AT150454	|	Nguyễn Mạnh Thế     				|	2.3
-AT150404	|	Vũ Hoàng Ánh        				|	2.28
-AT150209	|	Trịnh Thị Dung      				|	2.28
-AT150236	|	Nguyễn Đăng Long    				|	2.28
-AT150133	|	Nguyễn Thành Long   				|	2.28
-AT150238	|	Nguyễn Năng Lực     				|	2.28
-AT150642	|	Phạm Duy Niên       				|	2.28
-AT150343	|	Nguyễn Đức Phương   				|	2.28
-AT150159	|	Đỗ Văn Toán         				|	2.28
-AT150265	|	Nguyễn Công Vĩnh    				|	2.28
-AT150139	|	Vũ Ngọc Minh        				|	2.27
-AT150218	|	Hà Ngọc Hiếu        				|	2.26
-AT150101	|	Vũ Trường An        				|	2.25
-AT150604	|	Lê Thị Ngọc Ánh     				|	2.25
-AT150222	|	Đào Thuý Hồng       				|	2.25
-AT150427	|	Phạm Duy Khánh      				|	2.25
-AT150402	|	Nguyễn Đức Anh      				|	2.23
-AT150501	|	Vũ Tiến Anh         				|	2.22
-AT150506	|	Ngô Thành Công      				|	2.22
-AT150409	|	Phùng Đức Dũng      				|	2.22
-AT150211	|	Nguyễn Thùy Dương   				|	2.22
-AT150213	|	Kiều Văn Đỗ         				|	2.22
-AT150217	|	Nguyễn Quang Hào    				|	2.22
-AT150165	|	Trần Bảo Việt       				|	2.22
-AT150421	|	Nguyễn Viết Hoàng   				|	2.19
-AT150319	|	Nguyễn Việt Hoàng   				|	2.19
-AT150324	|	Phạm Quang Huy      				|	2.19
-AT150341	|	Đinh Thị Hồng Phúc  				|	2.19
-AT150246	|	Trần Hồng Sơn       				|	2.19
-AT150260	|	Nguyễn Quang Trung  				|	2.19
-AT150630	|	Trịnh Hải Linh      				|	2.17
-AT150442	|	Vương Thế Nhật      				|	2.17
-AT150249	|	Linh Ngọc Thái      				|	2.17
-AT150550	|	Nguyễn Tuấn Thành   				|	2.17
-AT150418	|	Vũ Huy Hiệu         				|	2.14
-AT150412	|	Trịnh Đình Đức      				|	2.11
-AT150650	|	Đoàn Anh Thắng      				|	2.11
-AT150525	|	Nguyễn Quang Huy    				|	2.08
-AT150416	|	Nguyễn Trung Hiếu   				|	2.06
-AT150312	|	Nguyễn Đắc Duy      				|	2.0
-AT150119	|	Lê Trung Hiếu       				|	2.0
-AT150448	|	Nguyễn Ngọc Sơn     				|	2.0
-AT150511	|	Lại Quang Duy       				|	1.97
-AT150315	|	Nguyễn Hải Đức      				|	1.97
-AT150353	|	Vũ Hưng Thịnh       				|	1.97
-AT150555	|	Nguyễn Đăng Tiến    				|	1.92
-AT150306	|	Lê Văn Chinh        				|	1.89
-AT150452	|	Nguyễn Văn Thành    				|	1.89
-AT150243	|	Lê Minh Nhật        				|	1.86
-AT150229	|	Tô Xuân Khanh       				|	1.83
-AT150424	|	Đỗ Hữu Hưởng        				|	1.78
-AT150158	|	Phạm Đặng Thuần     				|	1.78
-AT150561	|	Lê Thanh Tùng       				|	1.75
-AT150405	|	Vũ Hồ Bách          				|	1.67
-AT150251	|	Nguyễn Quang Thành  				|	1.64
-AT150509	|	Nguyễn Văn Dũng     				|	1.53
-AT150347	|	Vương Hồng Thái     				|	1.53
-AT150602	|	Kim Việt Anh        				|	1.39
-AT150128	|	Phạm Tiến Khải      				|	1.36
-AT150636	|	Trần Minh Lương     				|	1.36
-AT150114	|	Nguyễn Tuấn Giang   				|	1.33
-AT150205	|	Nguyễn Linh Chi     				|	1.22
-AT150624	|	Hoàng Quang Huy     				|	1.17
-AT150228	|	Lê Minh Huyền       				|	1.17
-AT150612	|	Phạm Đức Duy        				|	1.14
-AT150161	|	Đinh Trí Trung      				|	1.14
-AT150227	|	Nguyễn Hoàng Huy    				|	1.11
-AT150629	|	Lê Kim Bá Lâm       				|	1.06
-AT150239	|	Hạ Văn Mạnh         				|	0.97
-AT150262	|	Hoàng Minh Tuấn     				|	0.94
-AT150434	|	Trần Hữu Long       				|	0.72
-AT150303	|	Nguyễn Tiến Anh     				|	0.0
-AT150523	|	Phạm Văn Hưng       				|	0.0
-AT150433	|	Bùi Hoàng Long      				|	0.0
-AT150632	|	Trần Mạnh Long      				|	0.0
-AT150436	|	Phạm Quang Luân     				|	0.0
-AT150340	|	Phạm Tấn Phong      				|	0.0
-AT150362	|	Nguyễn Lâm Tùng     				|	0.0
-AT150264	|	Nguyễn Quốc Việt    				|	0.0
-AT150363	|	Chu Viết Long Vũ    				|	0.0
+AT150443	|	Nguyễn Thị Ninh          				|	3.6
+AT150203	|	Hoàng Việt Anh           				|	3.58
+AT150204	|	Trần Cao Minh Bách       				|	3.56
+AT150428	|	Võ Thanh Lâm             				|	3.56
+AT150302	|	Nguyễn Thị Vân Anh       				|	3.53
+AT150449	|	Nguyễn Thanh Sỹ          				|	3.52
+AT150451	|	Phùng Văn Thành          				|	3.52
+AT150307	|	Trần Văn Công            				|	3.47
+AT150641	|	Đỗ Thị Hồng Nhung        				|	3.47
+AT150446	|	Võ Thị Tú Phương         				|	3.47
+AT150247	|	Nguyễn Mỹ Tâm            				|	3.47
+AT150120	|	Trần Tất Hòa             				|	3.42
+AT150328	|	Kiều Duy Khánh           				|	3.42
+AT150453	|	Hoàng Thị Thảo           				|	3.42
+AT150553	|	Nguyễn Thị Phương Thảo   				|	3.42
+AT150408	|	Lương Hoài Dung          				|	3.41
+AT150335	|	Trần Thế Long            				|	3.41
+AT150317	|	Nguyễn Đàm Minh Hiếu     				|	3.38
+AT150608	|	Đỗ Huy Đức               				|	3.36
+AT150157	|	Trần Thị Huyền Thư       				|	3.36
+AT150364	|	Bùi Thị Hải Yến          				|	3.36
+AT150643	|	Trần Văn Quắc            				|	3.33
+AT150547	|	Quyền Hồng Sơn           				|	3.33
+AT150255	|	Hà Văn Thiệu             				|	3.31
+AT150156	|	Phạm Thị Thu             				|	3.31
+AT150504	|	Vũ Thị Ánh               				|	3.28
+AT150359	|	Dương Quốc Tuấn          				|	3.28
+AT150502	|	Mai Đức Nam Anh          				|	3.27
+AT150657	|	Đào Thị Huyền Trang      				|	3.27
+AT150539	|	Nguyễn Thị Huyền My      				|	3.26
+AT150563	|	Lê Hoàng Vũ              				|	3.26
+AT150619	|	Nguyễn Hoàng Hiệp        				|	3.24
+AT150145	|	Nguyễn Thị Phương        				|	3.24
+AT150648	|	Đỗ Đình Thanh            				|	3.24
+AT150401	|	Nguyễn Thị Lan Anh       				|	3.22
+AT150515	|	Lê Minh Hà               				|	3.22
+AT150121	|	Nguyễn Minh Hoàng        				|	3.22
+AT150153	|	Hoàng Văn Thành          				|	3.22
+AT150354	|	Hoàng Thị Thúy           				|	3.22
+AT150108	|	Hoàng Chấn Dương         				|	3.19
+AT150611	|	Nguyễn Tuấn Dương        				|	3.19
+AT150615	|	Ngô Xuân Hà              				|	3.19
+AT150415	|	Lương Hữu Hải            				|	3.19
+AT150420	|	Phạm Thái Hoàng          				|	3.19
+AT150625	|	Vũ Quang Huy             				|	3.19
+AT150235	|	Đàm Trung Long           				|	3.19
+AT150646	|	Trương Mạnh Tài          				|	3.19
+AT150551	|	Phạm Văn Thái            				|	3.19
+AT150257	|	Lê Văn Thuận             				|	3.19
+AT150102	|	Vũ Trần Hoàng Anh        				|	3.17
+AT150622	|	Lê Thị Hương             				|	3.17
+AT150230	|	Nguyễn Đình Lâm          				|	3.17
+AT150237	|	Vũ Thành Luân            				|	3.17
+AT150656	|	Bùi Thanh Trà            				|	3.17
+AT150164	|	Vũ Viết Tùng             				|	3.17
+AT150414	|	Lê Thị Ngọc Hà           				|	3.15
+AT150554	|	Nguyễn Tiến Thịnh        				|	3.15
+AT150331	|	Nguyễn Thị Linh          				|	3.14
+AT150339	|	Lê Thị Ngọc              				|	3.14
+AT150356	|	Đặng Thị Huyền Trang     				|	3.14
+AT150263	|	Trần Quang Tuấn          				|	3.14
+AT150560	|	Trần Anh Tuấn            				|	3.13
+AT150531	|	Nguyễn Văn Lâm           				|	3.12
+AT150309	|	Ngô Anh Duân             				|	3.11
+AT150513	|	Nguyễn Trung Đức         				|	3.11
+AT150614	|	Bùi Tiến Giang           				|	3.11
+AT150617	|	Nguyễn Ngọc Hiếu         				|	3.11
+AT150627	|	Trịnh Văn Kiên           				|	3.11
+AT150147	|	Đỗ Minh Quyết            				|	3.11
+AT150355	|	Chu Ngọc Thủy            				|	3.11
+AT150357	|	Phạm Thị Diễm Trinh      				|	3.11
+AT150466	|	Phạm Thị Yến             				|	3.11
+AT150310	|	Trần Thị Dung            				|	3.09
+AT150542	|	Đỗ Quý Nguyễn            				|	3.09
+AT150441	|	Phạm Thị Ngọc            				|	3.08
+AT150456	|	Ngô Quang Thiên          				|	3.08
+AT150206	|	Bùi Huy Chiến            				|	3.06
+AT150606	|	Vũ Tài Cương             				|	3.06
+AT150107	|	Nguyễn Mạnh Cường        				|	3.06
+AT150110	|	Nguyễn Tiến Đạt          				|	3.06
+AT150524	|	Nguyễn Thị Lan Hương     				|	3.06
+AT150528	|	Đặng Duy Bảo Khánh       				|	3.06
+AT150543	|	Ngô Trí Nhật             				|	3.06
+AT150652	|	Phạm Hữu Thông           				|	3.06
+AT150540	|	Trần Văn Nam             				|	3.05
+AT150201	|	Bạch Trường An           				|	3.03
+AT150407	|	Nguyễn Trịnh Thanh Cường 				|	3.03
+AT150323	|	Dương Quang Huy          				|	3.03
+AT150637	|	Vũ Bình Minh             				|	3.03
+AT150457	|	Phan Thị Thanh Thủy      				|	3.03
+AT150220	|	Đặng Thị Thu Hoà         				|	3.02
+AT150557	|	Trần Thị Trang           				|	3.02
+AT150432	|	Nguyễn Tiến Long         				|	3.01
+AT150311	|	Lê Tiến Dũng             				|	3.0
+AT150429	|	Vũ Thị Thùy Linh         				|	2.99
+AT150638	|	Đỗ Hoài Nam              				|	2.99
+AT150618	|	Lưu Hiệu                 				|	2.98
+AT150626	|	Nguyễn Thị Ngọc Huyền    				|	2.98
+AT150430	|	Lê Văn Lộc               				|	2.98
+AT150610	|	Nguyễn Tấn Dũng          				|	2.97
+AT150413	|	Phạm Kiều Giang          				|	2.97
+AT150503	|	Trần Thị Ngọc Anh        				|	2.95
+AT150112	|	Nguyễn Thiện Đô          				|	2.94
+AT150616	|	Mai Đại Hải              				|	2.94
+AT150116	|	Nguyễn Thảo Hạnh         				|	2.94
+AT150254	|	Lê Xuân Thiện            				|	2.94
+AT150462	|	Nguyễn Anh Tuấn          				|	2.94
+AT150314	|	Vũ Thành Đạt             				|	2.92
+AT150118	|	Trần Minh Hiếu           				|	2.92
+AT150126	|	Lê Quang Huy             				|	2.92
+AT150124	|	Tạ Quang Hứa             				|	2.92
+AT150644	|	Nguyễn Mạnh Quân         				|	2.92
+AT150150	|	Lê Công Sản              				|	2.92
+AT150259	|	Ngô Thị Trinh            				|	2.92
+AT150450	|	Trần Quang Thái          				|	2.91
+AT150258	|	Trần Thị Trang           				|	2.91
+AT150507	|	Nguyễn Nam Cường         				|	2.89
+AT150134	|	Vũ Hoàng Long            				|	2.89
+AT150649	|	Trịnh Đình Thành         				|	2.89
+AT150419	|	Phạm Thị Thanh Hoa       				|	2.88
+AT150223	|	Nguyễn Hữu Huân          				|	2.88
+AT150135	|	Bùi Ngọc Long            				|	2.88
+AT150536	|	Vũ Đức Long              				|	2.88
+AT150465	|	Nguyễn Long Vũ           				|	2.88
+AT150129	|	Nguyễn Trí Khanh         				|	2.87
+AT150535	|	Đoàn Ngọc Long           				|	2.87
+AT150444	|	Nguyễn Thị Oanh          				|	2.87
+AT150549	|	Ngô Văn Tâm              				|	2.87
+AT150113	|	Vũ Đình Đức              				|	2.86
+AT150325	|	Nguyễn Thị Huyền         				|	2.86
+AT150329	|	Phan Trọng Khiêm         				|	2.86
+AT150136	|	Nguyễn Hải Long          				|	2.86
+AT150431	|	Vũ Hoàng Long            				|	2.86
+AT150240	|	Phạm Đức Minh            				|	2.86
+AT150244	|	Trịnh Việt Phương        				|	2.86
+AT150654	|	Phan Xuân Tính           				|	2.86
+AT150659	|	Nguyễn Quốc Tuấn         				|	2.86
+AT150512	|	Đặng Trọng Đạt           				|	2.84
+AT150521	|	Nguyễn Việt Hoàng        				|	2.84
+AT150533	|	Nguyễn Thanh Long        				|	2.83
+AT150141	|	Nguyễn Văn Nghĩa         				|	2.83
+AT150342	|	Đặng Hữu Phụng           				|	2.83
+AT150545	|	Lê Thị Phượng            				|	2.83
+AT150455	|	Hoàng Thị Thêu           				|	2.83
+AT150160	|	Trần Đức Toàn            				|	2.83
+AT150461	|	Đỗ Thanh Tuấn            				|	2.83
+AT150601	|	Đặng Thị Mai Anh         				|	2.81
+AT150609	|	Đinh Thị Phương Dung     				|	2.81
+AT150532	|	Nguyễn Duy Linh          				|	2.81
+AT150332	|	Lê Gia Long              				|	2.81
+AT150538	|	Bùi Tuấn Minh            				|	2.81
+AT150349	|	Vũ Duy Thành             				|	2.8
+AT150406	|	Bùi Thành Công           				|	2.78
+AT150508	|	Nguyễn Thùy Dung         				|	2.78
+AT150621	|	Nguyễn Tiến Hưng         				|	2.78
+AT150552	|	Quản Đức Thắng           				|	2.78
+AT150130	|	Dương Khánh Lâm          				|	2.77
+AT150241	|	Lã Hải Nam               				|	2.77
+AT150345	|	Trương Thị Quý           				|	2.77
+AT150346	|	Cao Nguyễn Sơn           				|	2.77
+AT150558	|	Lê Quốc Trung            				|	2.77
+AT150422	|	Đỗ Chí Hùng              				|	2.76
+AT150505	|	Phạm Hữu Bằng            				|	2.75
+AT150417	|	Hoàng Đức Hiếu           				|	2.75
+AT150330	|	Nguyễn Phú Lâm           				|	2.75
+AT150631	|	Nguyễn Văn Lĩnh          				|	2.75
+AT150138	|	Đào Văn Mạnh             				|	2.75
+AT150252	|	Đặng Tiến Thành          				|	2.75
+AT150304	|	Lê Ngọc Ánh              				|	2.74
+AT150207	|	Nguyễn Hữu Cường         				|	2.74
+AT150225	|	Đỗ Duy Hưng              				|	2.74
+AT150104	|	Hồ Việt Bắc              				|	2.73
+AT150607	|	Nguyễn Đình Duẩn         				|	2.73
+AT150510	|	Nguyễn Tài Dương         				|	2.73
+AT150647	|	Hoàng Đức Thái           				|	2.73
+AT150105	|	Vũ Tuấn Cảnh             				|	2.72
+AT150308	|	Nguyễn Văn Cường         				|	2.72
+AT150517	|	Chu Văn Hiếu             				|	2.72
+AT150318	|	Thân Ngọc Hiếu           				|	2.72
+AT150527	|	Nguyễn Mỹ Huyền          				|	2.72
+AT150146	|	Bình Văn Quyền           				|	2.72
+AT150210	|	Nguyễn Văn Dũng          				|	2.69
+AT150117	|	Nguyễn Đức Hải           				|	2.69
+AT150221	|	Trịnh Minh Hoàng         				|	2.69
+AT150224	|	Nguyễn Đình Hùng         				|	2.69
+AT150232	|	Phạm Đỗ Thùy Linh        				|	2.69
+AT150537	|	Nguyễn Văn Mạnh          				|	2.69
+AT150344	|	Vũ Như Quang             				|	2.69
+AT150548	|	Phạm Đức Tài             				|	2.69
+AT150152	|	Đoàn Khắc Thành          				|	2.69
+AT150106	|	Lê Văn Chiến             				|	2.67
+AT150313	|	Đào Văn Dương            				|	2.67
+AT150514	|	Nguyễn Ngọc Trường Giang 				|	2.67
+AT150518	|	Nguyễn Đình Hiệp         				|	2.67
+AT150623	|	Nguyễn Thị Bích Hường    				|	2.67
+AT150628	|	Nguyễn Văn Mạnh          				|	2.67
+AT150639	|	Trần Đại Nghĩa           				|	2.67
+AT150316	|	Nguyễn Văn Hậu           				|	2.66
+AT150266	|	Nguyễn Văn Vỹ            				|	2.66
+AT150216	|	Nguyễn Minh Hằng         				|	2.64
+AT150655	|	Trần Văn Toán            				|	2.64
+AT150463	|	Nguyễn Thanh Tùng        				|	2.64
+AT150661	|	Phạm Thị Thúy Vân        				|	2.64
+AT150562	|	Trịnh Khắc Vinh          				|	2.64
+AT150154	|	Nguyễn Thu Thảo          				|	2.62
+AT150360	|	Nguyễn Anh Tuấn          				|	2.62
+AT150522	|	Kiều Việt Hùng           				|	2.61
+AT150127	|	Nguyễn Quốc Huy          				|	2.61
+AT150534	|	Phạm Ngọc Long           				|	2.61
+AT150351	|	Lê Văn Thắng             				|	2.61
+AT150155	|	Phạm Trọng Thiện         				|	2.61
+AT150361	|	Tạ Ngọc Tuệ              				|	2.61
+AT150529	|	Vũ Văn Khiêm             				|	2.59
+AT150333	|	Vũ Hoàng Long            				|	2.58
+AT150403	|	Lò Thị Ngọc Anh          				|	2.56
+AT150410	|	Lê Hải Dương             				|	2.56
+AT150334	|	Đào Hải Long             				|	2.56
+AT150350	|	Bùi Tiến Thành           				|	2.56
+AT150459	|	Đào Thị Trang            				|	2.56
+AT150109	|	Phạm Xuân Diệu           				|	2.53
+AT150336	|	Nguyễn Đức Mạnh          				|	2.52
+AT150140	|	Đỗ Văn Nam               				|	2.52
+AT150348	|	Vũ Ngọc Thanh            				|	2.52
+AT150640	|	Hoàng Anh Nhật           				|	2.5
+AT150651	|	Lê Hoàng Đại Thắng       				|	2.5
+AT150301	|	Đào Thị Huyền Anh        				|	2.47
+AT150305	|	Đỗ Xuân Bách             				|	2.47
+AT150326	|	Phùng Khắc Huynh         				|	2.47
+AT150137	|	Trần Hùng Mạnh           				|	2.47
+AT150447	|	Vũ Hà Quang              				|	2.47
+AT150245	|	Lê Văn Sớm               				|	2.47
+AT150248	|	Phạm Cơ Thạch            				|	2.47
+AT150460	|	Lương Quang Trung        				|	2.47
+AT150658	|	Nguyễn Quang Trường      				|	2.47
+AT150603	|	Nguyễn Đức Anh           				|	2.44
+AT150215	|	Đỗ Cao Đức               				|	2.44
+AT150321	|	Trần Thị Ánh Hồng        				|	2.44
+AT150233	|	Đỗ Bá Long               				|	2.44
+AT150440	|	Lưu Công Minh            				|	2.44
+AT150556	|	Trần Văn Tín             				|	2.44
+AT150202	|	Đỗ Tuấn Anh              				|	2.42
+AT150320	|	Đặng Đình Hoàng          				|	2.42
+AT150423	|	Lê Đức Hưng              				|	2.42
+AT150530	|	Trần Tuấn Lâm            				|	2.42
+AT150458	|	Trần Thị Huyền Trang     				|	2.41
+AT150559	|	Nguyễn Trọng Tuấn        				|	2.41
+AT150122	|	Hoàng Nhật Hồng          				|	2.39
+AT150327	|	Mai Văn Khá              				|	2.39
+AT150148	|	Nguyễn Thị Quỳnh         				|	2.39
+AT150162	|	Ngọc Văn Trường          				|	2.39
+AT150226	|	Nguyễn Quang Huy         				|	2.36
+AT150234	|	Phan Châu Long           				|	2.36
+AT150438	|	Đoàn Thị Ngọc Mai        				|	2.36
+AT150208	|	Chẩu Đình Doanh          				|	2.34
+AT150435	|	Lê Thế Long              				|	2.34
+AT150605	|	Đỗ Quang Bính            				|	2.33
+AT150411	|	Nguyễn Thành Đạt         				|	2.33
+AT150142	|	Vũ Cao Nguyên            				|	2.33
+AT150149	|	Phùng Tiến San           				|	2.33
+AT150256	|	Nguyễn Đăng Thuần        				|	2.33
+AT150662	|	Ngô Đoàn Vượng           				|	2.33
+AT150212	|	Nguyễn Tuấn Đạt          				|	2.31
+AT150519	|	Nguyễn Thị Thanh Hoa     				|	2.31
+AT150425	|	Bùi Đoàn Quang Huy       				|	2.31
+AT150125	|	Lê Viết Hưng             				|	2.3
+AT150454	|	Nguyễn Mạnh Thế          				|	2.3
+AT150404	|	Vũ Hoàng Ánh             				|	2.28
+AT150209	|	Trịnh Thị Dung           				|	2.28
+AT150236	|	Nguyễn Đăng Long         				|	2.28
+AT150133	|	Nguyễn Thành Long        				|	2.28
+AT150238	|	Nguyễn Năng Lực          				|	2.28
+AT150642	|	Phạm Duy Niên            				|	2.28
+AT150343	|	Nguyễn Đức Phương        				|	2.28
+AT150159	|	Đỗ Văn Toán              				|	2.28
+AT150265	|	Nguyễn Công Vĩnh         				|	2.28
+AT150139	|	Vũ Ngọc Minh             				|	2.27
+AT150218	|	Hà Ngọc Hiếu             				|	2.26
+AT150101	|	Vũ Trường An             				|	2.25
+AT150604	|	Lê Thị Ngọc Ánh          				|	2.25
+AT150222	|	Đào Thuý Hồng            				|	2.25
+AT150427	|	Phạm Duy Khánh           				|	2.25
+AT150402	|	Nguyễn Đức Anh           				|	2.23
+AT150501	|	Vũ Tiến Anh              				|	2.22
+AT150506	|	Ngô Thành Công           				|	2.22
+AT150409	|	Phùng Đức Dũng           				|	2.22
+AT150211	|	Nguyễn Thùy Dương        				|	2.22
+AT150213	|	Kiều Văn Đỗ              				|	2.22
+AT150217	|	Nguyễn Quang Hào         				|	2.22
+AT150165	|	Trần Bảo Việt            				|	2.22
+AT150421	|	Nguyễn Viết Hoàng        				|	2.19
+AT150319	|	Nguyễn Việt Hoàng        				|	2.19
+AT150324	|	Phạm Quang Huy           				|	2.19
+AT150341	|	Đinh Thị Hồng Phúc       				|	2.19
+AT150246	|	Trần Hồng Sơn            				|	2.19
+AT150260	|	Nguyễn Quang Trung       				|	2.19
+AT150630	|	Trịnh Hải Linh           				|	2.17
+AT150442	|	Vương Thế Nhật           				|	2.17
+AT150249	|	Linh Ngọc Thái           				|	2.17
+AT150550	|	Nguyễn Tuấn Thành        				|	2.17
+AT150418	|	Vũ Huy Hiệu              				|	2.14
+AT150412	|	Trịnh Đình Đức           				|	2.11
+AT150650	|	Đoàn Anh Thắng           				|	2.11
+AT150525	|	Nguyễn Quang Huy         				|	2.08
+AT150416	|	Nguyễn Trung Hiếu        				|	2.06
+AT150312	|	Nguyễn Đắc Duy           				|	2.0
+AT150119	|	Lê Trung Hiếu            				|	2.0
+AT150448	|	Nguyễn Ngọc Sơn          				|	2.0
+AT150511	|	Lại Quang Duy            				|	1.97
+AT150315	|	Nguyễn Hải Đức           				|	1.97
+AT150353	|	Vũ Hưng Thịnh            				|	1.97
+AT150555	|	Nguyễn Đăng Tiến         				|	1.92
+AT150306	|	Lê Văn Chinh             				|	1.89
+AT150452	|	Nguyễn Văn Thành         				|	1.89
+AT150243	|	Lê Minh Nhật             				|	1.86
+AT150229	|	Tô Xuân Khanh            				|	1.83
+AT150424	|	Đỗ Hữu Hưởng             				|	1.78
+AT150158	|	Phạm Đặng Thuần          				|	1.78
+AT150561	|	Lê Thanh Tùng            				|	1.75
+AT150405	|	Vũ Hồ Bách               				|	1.67
+AT150251	|	Nguyễn Quang Thành       				|	1.64
+AT150509	|	Nguyễn Văn Dũng          				|	1.53
+AT150347	|	Vương Hồng Thái          				|	1.53
+AT150602	|	Kim Việt Anh             				|	1.39
+AT150128	|	Phạm Tiến Khải           				|	1.36
+AT150636	|	Trần Minh Lương          				|	1.36
+AT150114	|	Nguyễn Tuấn Giang        				|	1.33
+AT150205	|	Nguyễn Linh Chi          				|	1.22
+AT150624	|	Hoàng Quang Huy          				|	1.17
+AT150228	|	Lê Minh Huyền            				|	1.17
+AT150612	|	Phạm Đức Duy             				|	1.14
+AT150161	|	Đinh Trí Trung           				|	1.14
+AT150227	|	Nguyễn Hoàng Huy         				|	1.11
+AT150629	|	Lê Kim Bá Lâm            				|	1.06
+AT150239	|	Hạ Văn Mạnh              				|	0.97
+AT150262	|	Hoàng Minh Tuấn          				|	0.94
+AT150434	|	Trần Hữu Long            				|	0.72
+AT150303	|	Nguyễn Tiến Anh          				|	0.0
+AT150523	|	Phạm Văn Hưng            				|	0.0
+AT150433	|	Bùi Hoàng Long           				|	0.0
+AT150632	|	Trần Mạnh Long           				|	0.0
+AT150436	|	Phạm Quang Luân          				|	0.0
+AT150340	|	Phạm Tấn Phong           				|	0.0
+AT150362	|	Nguyễn Lâm Tùng          				|	0.0
+AT150264	|	Nguyễn Quốc Việt         				|	0.0
+AT150363	|	Chu Viết Long Vũ         				|	0.0

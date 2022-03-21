@@ -106,6 +106,6 @@ w = open('data/all_sv.txt','w',encoding='utf-8')
 for  i in newlist:
     name = i['HVT']
   
-    output = i['sbd']+'\t|\t'+f'{name:<20}'+'\t\t\t\t|\t'+str(i['DTB'])+'\n'
+    output = i['sbd']+'\t|\t'+f'{name:<25}'+'\t\t\t\t|\t'+str(i['DTB'])+'\n'
     w.write(str(output))
     
