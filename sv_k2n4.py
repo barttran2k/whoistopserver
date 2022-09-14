@@ -6,7 +6,7 @@ hsatmmt = 4
 hsgtatm = 2
 hsktgt = 2
 
-sum_tin = 18.0
+sum_tin = 16
 class sv:
     def __init__(self,hvt,sbd,dgkd,pttkat,ttpt,atmmt,gtatm,ktgt):
         self.sbd = sbd
@@ -23,5 +23,5 @@ class sv:
         return round(db, 2)
         
     def toString(self):
-        return self.sbd + ' ' + self.hvt + ' ' + str(self.dgkd) + ' ' + str(self.pttkat) + ' ' + str(self.csatt) + ' ' + str(self.atmmt) + ' ' + str(self.gtatm) + ' ' + str(self.ktgt) + ' ' + str(self.getDTB())
+        return self.sbd + ' ' + self.hvt + ' ' + str(self.dgkd) + ' ' + str(self.pttkat) + ' '+ ' ' + str(self.atmmt) + ' ' + str(self.gtatm) + ' ' + str(self.ktgt) + ' ' + str(self.getDTB())
     

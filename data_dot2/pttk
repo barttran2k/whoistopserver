@@ -1,343 +1,343 @@
-1 1 AT150201 Bạch Trường An,9.0 8.0 8.0 8.2 B+
-2 2 AT150101 Vũ Trường An,7.0 6.5 3.0 4.2 D
-3 4 AT150301 Đào Thị Huyền Anh,6.0 8.5 7.0 6.9 C+
-4 3 AT150601 Đặng Thị Mai Anh,8.0 7.0 4.5 5.5 C
-5 5 AT150202 Đỗ Tuấn Anh,8.8 8.0 4.0 5.4 D+
-6 6 AT150203 Hoàng Việt Anh,9.0 10 6.5 7.3 B
-7 7 AT150602 Kim Việt Anh,9.0 8.0 5.0 6.1 C
-8 8 AT150403 Lò Thị Ngọc Anh,9.0 7.0 4.0 5.3 D+
-9 9 AT150502 Mai Đức Nam Anh,8.6 7.8 6.5 7.1 B
-10 10 AT150402 Nguyễn Đức Anh,4.0 6.3 3.0 3.5 F
-11 11 AT150603 Nguyễn Đức Anh,9.0 8.0 5.5 6.5 C+
-12 12 AT150401 Nguyễn Thị Lan Anh,7.0 7.5 6.5 6.7 C+
-13 13 AT150302 Nguyễn Thị Vân Anh,10 8.0 5.0 6.3 C+
-14 14 AT150503 Trần Thị Ngọc Anh,8.0 7.0 4.5 5.5 C
-15 15 AT150501 Vũ Tiến Anh,8.0 8.0 6.0 6.6 C+
-16 16 AT150102 Vũ Trần Hoàng Anh,10 7.0 4.0 5.5 C
-17 17 AT150304 Lê Ngọc Ánh,8.0 8.0 2.0 3.8 F
-18 18 AT150604 Lê Thị Ngọc Ánh,7.0 7.0 0.0 0.0 F Đình chỉ
-19 19 AT150404 Vũ Hoàng Ánh,10 7.0 0.5 3.1 F K.Trách
-20 20 AT150504 Vũ Thị Ánh,10 8.0 5.0 6.3 C+
-21 22 AT150305 Đỗ Xuân Bách,6.0 7.5 5.0 5.4 D+
-22 23 AT150204 Trần Cao Minh Bách,10 10 5.0 6.5 C+
-23 24 AT150405 Vũ Hồ Bách,9.0 6.5 2.5 4.2 D K.Trách
-24 21 AT150104 Hồ Việt Bắc,7.0 8.0 8.0 7.8 B+
-25 25 AT150505 Phạm Hữu Bằng,8.0 8.0 7.0 7.3 B
-26 26 AT150605 Đỗ Quang Bính,9.0 8.0 0.5 3.0 F
-27 27 AT150105 Vũ Tuấn Cảnh,7.0 7.0 3.0 4.2 D
-28 28 AT150205 Nguyễn Linh Chi,8.8 7.0 6.0 6.7 C+
-29 29 AT150206 Bùi Huy Chiến,8.8 10 4.5 5.9 C
-30 30 AT150106 Lê Văn Chiến,10 7.5 5.0 6.3 C+
-31 31 AT150306 Lê Văn Chinh,7.5 8.0 7.0 7.2 B
-32 32 AT150406 Bùi Thành Công,8.5 7.5 6.0 6.7 C+
-33 33 AT150506 Ngô Thành Công,8.8 6.0 7.0 7.3 B
-34 34 AT150307 Trần Văn Công,7.0 7.5 7.0 7.0 B
-35 35 AT150606 Vũ Tài Cương,6.0 7.5 5.0 5.4 D+
-36 36 AT150207 Nguyễn Hữu Cường,8.8 10 4.0 5.5 C
-37 37 AT150107 Nguyễn Mạnh Cường,7.0 7.5 6.0 6.3 C+
-38 38 AT150507 Nguyễn Nam Cường,6.0 7.0 5.0 5.4 D+
-39 39 AT150407 Nguyễn Trịnh Thanh Cường,9.0 7.0 0.0 2.5 F
-40 40 AT150308 Nguyễn Văn Cường,8.0 7.5 7.0 7.3 B
-41 46 AT150109 Phạm Xuân Diệu,9.0 8.0 5.5 6.5 C+
-42 49 AT150208 Chẩu Đình Doanh,8.5 8.0 6.0 6.7 C+
-43 50 AT150309 Ngô Anh Duân,7.0 7.5 4.5 5.3 D+
-44 51 AT150607 Nguyễn Đình Duẩn,9.0 7.5 4.5 5.7 C
-45 58 AT150609 Đinh Thị Phương Dung,8.0 7.5 4.5 5.5 C
-46 59 AT150408 Lương Hoài Dung,10 8.0 6.0 7.0 B
-47 60 AT150508 Nguyễn Thùy Dung,8.5 7.0 4.0 5.2 D+
-48 61 AT150310 Trần Thị Dung,10 8.0 5.0 6.3 C+
-49 62 AT150209 Trịnh Thị Dung,10 7.0 5.0 6.2 C
-50 63 AT150311 Lê Tiến Dũng,8.0 7.5 1.0 3.1 F
-51 64 AT130310 Nguyễn Tấn Dũng,9.0 7.0 2.5 4.3 D
-52 65 AT150610 Nguyễn Tấn Dũng,8.5 7.0 4.0 5.2 D+
-53 66 AT150210 Nguyễn Văn Dũng,8.0 7.5 3.0 4.5 D
-54 67 AT150509 Nguyễn Văn Dũng,9.0 7.0 4.0 5.3 D+
-55 68 AT150409 Phùng Đức Dũng,7.0 6.0 4.0 4.8 D+
-56 75 AT150511 Lại Quang Duy,8.5 9.0 6.0 6.8 C+
-57 76 AT150312 Nguyễn Đắc Duy,9.0 7.5 4.0 5.4 D+
-58 77 AT150612 Phạm Đức Duy,N25 N25
-59 69 AT150313 Đào Văn Dương,6.0 7.0 3.5 4.3 D
-60 70 AT150108 Hoàng Chấn Dương,9.0 7.5 4.0 5.4 D+
-61 71 AT150410 Lê Hải Dương,8.2 7.8 2.0 3.8 F
-62 72 AT150510 Nguyễn Tài Dương,6.0 7.0 4.5 5.0 D+
-63 73 AT150211 Nguyễn Thùy Dương,10 8.0 4.0 5.6 C
-64 74 AT150611 Nguyễn Tuấn Dương,7.5 7.5 5.0 5.8 C
-65 41 AT150512 Đặng Trọng Đạt,7.0 7.5 3.5 4.6 D
-66 42 AT150411 Nguyễn Thành Đạt,8.0 8.0 2.0 3.8 F
-67 43 AT150110 Nguyễn Tiến Đạt,7.0 7.0 5.5 6.0 C
-68 44 AT150212 Nguyễn Tuấn Đạt,9.0 7.5 3.0 4.7 D
-69 45 AT150314 Vũ Thành Đạt,10 7.0 8.5 8.7 A
-70 47 AT150112 Nguyễn Thiện Đô,9.0 8.0 3.0 4.7 D
-71 48 AT150213 Kiều Văn Đỗ,8.0 9.0 0.0 0.0 F Đình chỉ
-72 52 AT150215 Đỗ Cao Đức,7.0 7.5 0.0 2.1 F
-73 53 AT150608 Đỗ Huy Đức,7.5 7.0 3.5 4.7 D
-74 54 AT150315 Nguyễn Hải Đức,10 8.0 1.0 3.5 F
-75 55 AT150513 Nguyễn Trung Đức,7.0 6.5 4.0 4.9 D+
-76 56 AT150412 Trịnh Đình Đức,10 7.5 0.0 2.8 F
-77 57 AT150113 Vũ Đình Đức,7.0 7.0 4.0 4.9 D+
-78 78 AT150614 Bùi Tiến Giang,8.0 7.0 9.0 8.6 A
-79 79 AT150514 Nguyễn Ngọc Trường Giang,8.0 8.0 5.0 5.9 C
-80 80 AT150413 Phạm Kiều Giang,10 8.0 5.5 6.7 C+
-81 81 AT150515 Lê Minh Hà,8.0 8.0 5.0 5.9 C
-82 82 AT150414 Lê Thị Ngọc Hà,10 9.0 4.5 6.1 C
-83 83 AT150615 Ngô Xuân Hà,6.0 7.5 6.0 6.1 C
-84 84 AT150415 Lương Hữu Hải,8.0 7.0 5.5 6.2 C
-85 85 AT150616 Mai Đại Hải,8.0 7.5 6.0 6.6 C+
-86 86 AT150117 Nguyễn Đức Hải,7.0 7.0 3.0 4.2 D
-87 88 AT150116 Nguyễn Thảo Hạnh,9.0 8.0 6.5 7.2 B
-88 89 AT150217 Nguyễn Quang Hào,9.0 7.5 8.0 8.2 B+
-89 87 AT150216 Nguyễn Minh Hằng,10 7.0 4.5 5.9 C
-90 90 AT150316 Nguyễn Văn Hậu,9.0 8.0 3.0 4.7 D
-91 91 AT150518 Nguyễn Đình Hiệp,8.5 7.0 4.0 5.2 D+
-92 92 AT150619 Nguyễn Hoàng Hiệp,6.0 7.5 4.0 4.7 D
-93 93 AT150517 Chu Văn Hiếu,6.0 7.0 6.5 6.4 C+
-94 94 AT150218 Hà Ngọc Hiếu,7.0 7.5 0.0 0.0 F Đình chỉ
-95 95 AT150417 Hoàng Đức Hiếu,9.0 9.0 0.0 2.7 F
-96 96 AT150119 Lê Trung Hiếu,8.5 6.0 4.0 5.1 D+
-97 97 AT150317 Nguyễn Đàm Minh Hiếu,7.0 8.0 6.5 6.7 C+
-98 98 AT150617 Nguyễn Ngọc Hiếu,6.0 7.0 4.5 5.0 D+
-99 99 AT150416 Nguyễn Trung Hiếu,5.0 7.3 8.0 7.3 B
-100 100 AT150318 Thân Ngọc Hiếu,6.0 7.5 6.0 6.1 C
-101 101 AT150118 Trần Minh Hiếu,8.5 10 8.0 8.3 B+
-102 102 AT150618 Lưu Hiệu,7.5 7.5 5.0 5.8 C
-103 103 AT150418 Vũ Huy Hiệu,7.9 10 3.5 5.0 D+
-104 104 AT150519 Nguyễn Thị Thanh Hoa,7.0 8.0 4.0 5.0 D+
-105 105 AT150419 Phạm Thị Thanh Hoa,10 9.0 5.0 6.4 C+
-106 106 AT150220 Đặng Thị Thu Hoà,8.0 7.5 5.0 5.9 C
-107 107 AT150120 Trần Tất Hòa,8.0 7.0 6.0 6.5 C+
-108 108 AT150320 Đặng Đình Hoàng,8.5 9.8 3.0 4.8 D+
-109 109 AT150121 Nguyễn Minh Hoàng,10 9.0 6.0 7.1 B
-110 110 AT150421 Nguyễn Viết Hoàng,10 7.0 8.0 8.3 B+
-111 111 AT150319 Nguyễn Việt Hoàng,6.0 7.5 5.0 5.4 D+
-112 112 AT150521 Nguyễn Việt Hoàng,6.0 7.0 0.0 1.9 F
-113 113 AT150420 Phạm Thái Hoàng,8.0 9.5 5.0 6.0 C
-114 114 AT150221 Trịnh Minh Hoàng,8.0 8.0 4.0 5.2 D+
-115 115 AT130222 Hoàng Trung Học,9.0 6.5 0.0 2.5 F
-116 116 AT150222 Đào Thuý Hồng,9.0 7.0 7.0 7.4 B
-117 117 AT150122 Hoàng Nhật Hồng,8.0 6.5 3.0 4.4 D
-118 118 AT150321 Trần Thị Ánh Hồng,9.0 8.0 7.0 7.5 B
-119 120 AT150223 Nguyễn Hữu Huân,8.0 8.0 7.0 7.3 B
-120 121 AT150422 Đỗ Chí Hùng,10 8.0 0.5 3.2 F
-121 122 AT150522 Kiều Việt Hùng,10 8.0 4.0 5.6 C
-122 123 AT130423 Mã Văn Hùng,9.0 7.5 K
-123 124 AT150224 Nguyễn Đình Hùng,9.0 8.0 4.0 5.4 D+
-124 133 AT150425 Bùi Đoàn Quang Huy,6.0 7.5 K
-125 134 AT150323 Dương Quang Huy,6.0 8.0 7.0 6.9 C+
-126 135 AT150624 Hoàng Quang Huy,6.0 4.0 DC
-127 136 AT150126 Lê Quang Huy,7.8 8.8 8.0 8.0 B+
-128 137 AT150227 Nguyễn Hoàng Huy,N100 N100
-129 138 AT130623 Nguyễn Quang Huy,8.1 8.0 7.0 7.3 B
-130 139 AT150226 Nguyễn Quang Huy,8.0 7.0 2.5 4.1 D
-131 140 AT150525 Nguyễn Quang Huy,7.0 7.0 5.0 5.6 C
-132 141 AT150127 Nguyễn Quốc Huy,9.0 7.0 1.5 3.6 F
-133 142 AT150324 Phạm Quang Huy,9.0 7.5 3.0 4.7 D
-134 143 AT150625 Vũ Quang Huy,8.0 8.5 5.0 5.9 C
-135 144 AT150228 Lê Minh Huyền,7.0 8.5 7.0 7.1 B
-136 145 AT150527 Nguyễn Mỹ Huyền,7.0 8.5 6.5 6.8 C+
-137 146 AT150325 Nguyễn Thị Huyền,9.0 8.0 5.0 6.1 C
-138 147 AT150626 Nguyễn Thị Ngọc Huyền,7.5 7.5 0.0 0.0 F
-139 148 AT150326 Phùng Khắc Huynh,6.0 6.5 2.0 3.2 F
-140 119 AT150124 Tạ Quang Hứa,8.0 7.0 5.0 5.8 C
-141 125 AT150225 Đỗ Duy Hưng,10 7.0 2.5 4.5 D
-142 126 AT150423 Lê Đức Hưng,10 8.0 3.0 4.9 D+
-143 127 AT150125 Lê Viết Hưng,6.0 7.0 K
-144 128 AT150621 Nguyễn Tiến Hưng,7.0 7.5 8.0 7.7 B
-145 129 AT150622 Lê Thị Hương,9.0 8.0 7.0 7.5 B
-146 130 AT150524 Nguyễn Thị Lan Hương,10 8.5 7.0 7.8 B+
-147 131 AT150623 Nguyễn Thị Bích Hường,7.0 7.5 4.0 4.9 D+
-148 132 AT150424 Đỗ Hữu Hưởng,8.0 7.0 4.0 5.1 D+
-149 149 AT150327 Mai Văn Khá,10 9.0 7.5 8.2 B+
-150 150 AT130231 Đinh Ngọc Khải,8.0 7.5 K
-151 151 AT150128 Phạm Tiến Khải,8.7 7.0 2.0 3.9 F
-152 152 AT150129 Nguyễn Trí Khanh,6.5 6.5 3.0 4.1 D
-153 153 AT150229 Tô Xuân Khanh,N100 N100
-154 154 AT150528 Đặng Duy Bảo Khánh,6.0 7.5 3.0 4.0 D
-155 155 AT150328 Kiều Duy Khánh,8.5 7.5 7.0 7.4 B
-156 156 AT150427 Phạm Duy Khánh,10 9.0 3.5 5.4 D+
-157 157 AT150329 Phan Trọng Khiêm,10 8.0 5.5 6.7 C+
-158 158 AT150529 Vũ Văn Khiêm,6.0 6.0 5.5 5.7 C
-159 159 AT150627 Trịnh Văn Kiên,8.0 7.5 6.0 6.6 C+
-160 160 AT150130 Dương Khánh Lâm,7.0 7.0 1.0 2.8 F
-161 161 AT150629 Lê Kim Bá Lâm,9.0 7.0 7.0 7.4 B
-162 162 AT150230 Nguyễn Đình Lâm,8.9 10 7.5 8.0 B+
-163 163 AT150330 Nguyễn Phú Lâm,6.0 7.0 K
-164 164 AT150531 Nguyễn Văn Lâm,10 8.0 6.0 7.0 B
-165 165 AT150530 Trần Tuấn Lâm,8.0 6.5 5.0 5.8 C
-166 166 AT150428 Võ Thanh Lâm,10 10 5.5 6.9 C+
-167 167 AT150532 Nguyễn Duy Linh,6.5 7.0 3.0 4.1 D
-168 168 AT150331 Nguyễn Thị Linh,10 9.0 7.5 8.2 B+
-169 169 AT150232 Phạm Đỗ Thùy Linh,9.0 8.0 0.0 2.6 F
-170 170 AT150630 Trịnh Hải Linh,9.0 7.0 4.0 5.3 D+
-171 171 AT150429 Vũ Thị Thùy Linh,10 7.0 0.5 3.1 F
-172 172 AT150631 Nguyễn Văn Lĩnh,9.0 8.0 2.0 4.0 D
-173 174 AT150135 Bùi Ngọc Long,6.0 7.0 5.0 5.4 D+
-174 175 AT150235 Đàm Trung Long,8.9 10 8.0 8.4 B+
-175 176 AT150334 Đào Hải Long,9.0 8.0 5.0 6.1 C
-176 178 AT150535 Đoàn Ngọc Long,10 10 7.0 7.9 B+
-177 177 AT150233 Đỗ Bá Long,9.0 8.0 8.0 8.2 B+
-178 179 AT150332 Lê Gia Long,9.0 7.0 4.0 5.3 D+
-179 180 AT150435 Lê Thế Long,6.0 6.5 0.0 1.8 F
-180 181 AT150236 Nguyễn Đăng Long,9.0 10 6.5 7.3 B
-181 182 AT150136 Nguyễn Hải Long,6.0 6.5 4.0 4.6 D
-182 183 AT150533 Nguyễn Thanh Long,6.0 7.5 K
-183 184 AT150133 Nguyễn Thành Long,6.0 7.0 7.0 6.8 C+
-184 185 AT150432 Nguyễn Tiến Long,6.0 8.0 0.0 2.0 F
-185 186 AT150534 Phạm Ngọc Long,6.0 7.0 0.0 1.9 F
-186 187 AT150234 Phan Châu Long,9.0 6.5 4.0 5.3 D+
-187 188 AT150434 Trần Hữu Long,N25 N25
-188 189 AT150335 Trần Thế Long,9.0 8.0 5.0 6.1 C
-189 190 AT150536 Vũ Đức Long,6.0 7.0 5.0 5.4 D+
-190 191 AT150134 Vũ Hoàng Long,8.0 7.0 2.0 3.7 F
-191 192 AT150333 Vũ Hoàng Long,9.0 6.5 7.0 7.4 B
-192 193 AT150431 Vũ Hoàng Long,5.0 4.0 K
-193 173 AT150430 Lê Văn Lộc,8.0 8.0 4.0 5.2 D+
-194 194 AT150237 Vũ Thành Luân,8.2 8.0 K
-195 195 AT150238 Nguyễn Năng Lực,8.0 6.5 6.0 6.5 C+
-196 196 AT150636 Trần Minh Lương,9.0 6.5 K
-197 197 AT150438 Đoàn Thị Ngọc Mai,6.0 7.0 1.5 2.9 F
-198 198 AT150138 Đào Văn Mạnh,6.0 7.0 6.5 6.4 C+
-199 199 AT150239 Hạ Văn Mạnh,7.4 6.0 5.5 5.9 C
-200 200 AT150336 Nguyễn Đức Mạnh,10 7.5 0.0 2.8 F
-201 201 AT150537 Nguyễn Văn Mạnh,7.0 7.0 4.0 4.9 D+
-202 202 AT150628 Nguyễn Văn Mạnh,7.0 7.5 3.0 4.2 D
-203 203 AT150137 Trần Hùng Mạnh,6.0 7.5 3.0 4.0 D
-204 204 AT150538 Bùi Tuấn Minh,8.4 9.0 5.0 6.1 C
-205 205 AT150440 Lưu Công Minh,10 5.5 0.0 2.6 F
-206 206 AT150240 Phạm Đức Minh,8.9 9.0 5.0 6.2 C
-207 207 AT150637 Vũ Bình Minh,8.0 7.0 7.5 7.6 B
-208 208 AT150139 Vũ Ngọc Minh,9.0 7.0 4.0 5.3 D+
-209 209 AT150539 Nguyễn Thị Huyền My,8.0 7.5 1.5 3.4 F
-210 210 AT150638 Đỗ Hoài Nam,7.0 7.0 4.0 4.9 D+
-211 211 AT150140 Đỗ Văn Nam,9.0 7.5 0.5 2.9 F
-212 212 AT150241 Lã Hải Nam,6.0 8.5 0.0 2.0 F
-213 213 AT150540 Trần Văn Nam,6.0 7.0 4.5 5.0 D+
-214 214 AT150141 Nguyễn Văn Nghĩa,9.0 7.0 4.5 5.7 C
-215 215 AT150639 Trần Đại Nghĩa,6.0 7.5 3.0 4.0 D
-216 216 AT150339 Lê Thị Ngọc,10 8.0 5.5 6.7 C+
-217 217 AT150441 Phạm Thị Ngọc,8.0 7.5 5.0 5.9 C
-218 218 AT150142 Vũ Cao Nguyên,9.0 6.5 K
-219 219 AT150542 Đỗ Quý Nguyễn,6.0 6.0 5.5 5.7 C
-220 220 AT150640 Hoàng Anh Nhật,9.0 8.0 K
-221 221 AT150243 Lê Minh Nhật,6.8 8.8 3.5 4.7 D
-222 222 AT150543 Ngô Trí Nhật,6.0 7.5 7.0 6.8 C+
-223 223 AT150442 Vương Thế Nhật,9.0 7.0 2.5 4.3 D
-224 224 AT150641 Đỗ Thị Hồng Nhung,8.5 8.5 6.0 6.8 C+
-225 225 AT150642 Phạm Duy Niên,8.5 7.0 2.5 4.2 D
-226 226 AT150443 Nguyễn Thị Ninh,10 9.5 5.0 6.5 C+
-227 227 AT150444 Nguyễn Thị Oanh,8.0 8.0 3.0 4.5 D
-228 228 AT150341 Đinh Thị Hồng Phúc,6.8 8.0 6.0 6.3 C+
-229 229 AT150342 Đặng Hữu Phụng,8.0 7.5 3.0 4.5 D
-230 230 AT150343 Nguyễn Đức Phương,9.0 7.5 5.0 6.1 C
-231 231 AT150145 Nguyễn Thị Phương,9.0 7.5 6.0 6.8 C+
-232 232 AT150244 Trịnh Việt Phương,8.0 6.5 6.0 6.5 C+
-233 233 AT150446 Võ Thị Tú Phương,8.4 9.0 6.0 6.8 C+
-234 234 AT150545 Lê Thị Phượng,10 9.0 8.0 8.5 A
-235 237 AT150447 Vũ Hà Quang,8.0 7.5 4.5 5.5 C
-236 238 AT150344 Vũ Như Quang,6.0 8.0 6.0 6.2 C
-237 239 AT140136 Nguyễn Hữu Quảng,8.0 8.0 3.0 4.5 D
-238 235 AT150643 Trần Văn Quắc,8.5 7.0 6.0 6.6 C+
-239 236 AT150644 Nguyễn Mạnh Quân,9.0 8.0 5.0 6.1 C
-240 240 AT150345 Trương Thị Quý,10 8.0 0.0 0.0 F
-241 241 AT150146 Bình Văn Quyền,7.6 9.0 3.0 4.5 D
-242 242 AT150147 Đỗ Minh Quyết,9.0 8.0 5.0 6.1 C
-243 243 AT150148 Nguyễn Thị Quỳnh,7.9 9.0 6.0 6.7 C+
-244 244 AT150149 Phùng Tiến San,7.6 8.5 7.5 7.6 B
-245 245 AT150150 Lê Công Sản,10 7.0 3.5 5.2 D+
-246 246 AT150245 Lê Văn Sớm,9.0 7.0 K
-247 247 AT150346 Cao Nguyễn Sơn,9.0 7.5 7.0 7.5 B
-248 248 AT150448 Nguyễn Ngọc Sơn,9.0 9.0 6.0 6.9 C+
-249 249 AT150547 Quyền Hồng Sơn,8.5 7.5 6.0 6.7 C+
-250 250 AT150246 Trần Hồng Sơn,6.8 8.0 K
-251 251 AT150449 Nguyễn Thanh Sỹ,9.0 8.5 9.0 9.0 A+
-252 252 AT150548 Phạm Đức Tài,6.0 7.0 5.5 5.7 C
-253 253 AT150646 Trương Mạnh Tài,7.0 7.0 2.0 3.5 F
-254 254 AT150549 Ngô Văn Tâm,7.5 7.0 5.5 6.1 C
-255 255 AT150247 Nguyễn Mỹ Tâm,8.3 8.8 5.0 6.0 C
-256 256 AT150248 Phạm Cơ Thạch,7.0 8.0 2.5 3.9 F
-257 257 AT150647 Hoàng Đức Thái,6.0 7.5 3.0 4.0 D
-258 258 AT150249 Linh Ngọc Thái,7.4 10 5.5 6.3 C+
-259 259 AT150551 Phạm Văn Thái,7.0 7.0 9.0 8.4 B+
-260 260 AT150450 Trần Quang Thái,6.0 7.5 4.5 5.1 D+
-261 261 AT150347 Vương Hồng Thái,6.5 7.5 5.0 5.5 C
-262 266 AT150648 Đỗ Đình Thanh,7.5 7.0 1.0 2.9 F
-263 267 AT150348 Vũ Ngọc Thanh,8.0 8.0 DC
-264 272 AT150251 Nguyễn Quang Thành,7.0 7.0 5.5 6.0 C
-265 268 AT150350 Bùi Tiến Thành,6.0 7.5 2.0 3.3 F
-266 269 AT150252 Đặng Tiến Thành,7.7 10 4.5 5.7 C
-267 270 AT150152 Đoàn Khắc Thành,9.0 8.0 8.0 8.2 B+
-268 271 AT150153 Hoàng Văn Thành,7.5 7.0 6.5 6.8 C+
-269 273 AT150550 Nguyễn Tuấn Thành,7.9 10 6.0 6.8 C+
-270 274 AT150452 Nguyễn Văn Thành,10 7.5 6.0 7.0 B
-271 275 AT150451 Phùng Văn Thành,10 10 7.0 7.9 B+
-272 276 AT150649 Trịnh Đình Thành,9.0 8.0 4.5 5.8 C
-273 277 AT150349 Vũ Duy Thành,6.7 9.0 5.0 5.7 C
-274 278 AT150453 Hoàng Thị Thảo,7.5 9.8 7.5 7.7 B
-275 279 AT150553 Nguyễn Thị Phương Thảo,7.5 7.5 2.0 3.7 F
-276 280 AT150154 Nguyễn Thu Thảo,7.0 7.5 4.5 5.3 D+
-277 262 AT150650 Đoàn Anh Thắng,7.5 7.0 4.0 5.0 D+
-278 263 AT150651 Lê Hoàng Đại Thắng,7.0 7.5 0.0 2.1 F
-279 264 AT150351 Lê Văn Thắng,6.0 8.0 4.5 5.1 D+
-280 265 AT150552 Quản Đức Thắng,10 10 8.0 8.6 A
-281 281 AT150454 Nguyễn Mạnh Thế,10 7.0 4.0 5.5 C
-282 282 AT150455 Hoàng Thị Thêu,9.0 8.0 5.0 6.1 C
-283 283 AT150456 Ngô Quang Thiên,7.0 7.0 2.5 3.9 F
-284 284 AT150254 Lê Xuân Thiện,10 9.0 8.0 8.5 A
-285 285 AT150155 Phạm Trọng Thiện,6.0 7.0 4.0 4.7 D
-286 286 AT150255 Hà Văn Thiệu,10 10 6.5 7.6 B
-287 287 AT150554 Nguyễn Tiến Thịnh,8.5 6.0 6.0 6.5 C+
-288 288 AT150353 Vũ Hưng Thịnh,7.1 8.5 6.0 6.5 C+
-289 289 AT150652 Phạm Hữu Thông,9.0 7.5 7.5 7.8 B+
-290 290 AT150156 Phạm Thị Thu,10 9.0 6.0 7.1 B
-291 292 AT150256 Nguyễn Đăng Thuần,6.8 10 6.0 6.5 C+
-292 293 AT150158 Phạm Đặng Thuần,6.5 10 5.0 5.8 C
-293 294 AT150257 Lê Văn Thuận,10 9.5 6.0 7.2 B
-294 296 AT150355 Chu Ngọc Thủy,10 8.5 5.5 6.7 C+
-295 297 AT150457 Phan Thị Thanh Thủy,6.0 7.0 6.0 6.1 C
-296 295 AT150354 Hoàng Thị Thúy,9.0 9.0 6.0 6.9 C+
-297 291 AT150157 Trần Thị Huyền Thư,9.0 8.0 7.0 7.5 B
-298 298 AT150555 Nguyễn Đăng Tiến,8.0 8.0 4.0 5.2 D+
-299 299 AT150556 Trần Văn Tín,7.5 7.5 4.0 5.1 D+
-300 300 AT150654 Phan Xuân Tính,6.0 7.5 3.5 4.4 D
-301 303 AT150160 Trần Đức Toàn,7.5 7.3 7.5 7.5 B
-302 301 AT150159 Đỗ Văn Toán,6.0 7.0 4.0 4.7 D
-303 302 AT150655 Trần Văn Toán,9.0 8.0 K
-304 304 AT150656 Bùi Thanh Trà,8.0 7.5 2.5 4.1 D
-305 306 AT150459 Đào Thị Trang,10 8.5 4.5 6.0 C
-306 307 AT150657 Đào Thị Huyền Trang,7.5 7.0 6.0 6.4 C+
-307 305 AT150356 Đặng Thị Huyền Trang,10 8.0 7.0 7.7 B
-308 308 AT150258 Trần Thị Trang,9.0 7.5 8.0 8.2 B+
-309 309 AT150557 Trần Thị Trang,7.0 7.0 3.5 4.6 D
-310 310 AT150458 Trần Thị Huyền Trang,7.5 8.0 5.0 5.8 C
-311 311 AT150259 Ngô Thị Trinh,9.0 8.0 3.5 5.1 D+
-312 312 AT150357 Phạm Thị Diễm Trinh,10 8.5 3.0 5.0 D+
-313 313 AT150161 Đinh Trí Trung,7.0 6.5 K
-314 314 AT150558 Lê Quốc Trung,9.0 7.0 6.0 6.7 C+
-315 315 AT150460 Lương Quang Trung,7.0 7.5 0.0 0.0 F Đình chỉ
-316 316 AT150260 Nguyễn Quang Trung,8.0 8.0 4.5 5.6 C
-317 317 AT150162 Ngọc Văn Trường,7.5 8.0 0.5 2.6 F
-318 318 AT150658 Nguyễn Quang Trường,9.0 8.0 K
-319 320 AT150359 Dương Quốc Tuấn,10 9.0 5.0 6.4 C+
-320 319 AT150461 Đỗ Thanh Tuấn,9.0 8.0 0.5 3.0 F
-321 321 AT150262 Hoàng Minh Tuấn,N25 N25
-322 322 AT150360 Nguyễn Anh Tuấn,8.0 7.5 3.0 4.5 D
-323 323 AT150462 Nguyễn Anh Tuấn,6.7 8.5 7.0 7.1 B
-324 324 AT150659 Nguyễn Quốc Tuấn,10 9.0 K
-325 325 AT150559 Nguyễn Trọng Tuấn,10 10 5.0 6.5 C+
-326 326 AT150560 Trần Anh Tuấn,7.5 7.5 4.5 5.4 D+
-327 327 AT150263 Trần Quang Tuấn,8.0 7.5 7.5 7.6 B
-328 328 AT150361 Tạ Ngọc Tuệ,10 8.5 3.0 5.0 D+
-329 329 AT150561 Lê Thanh Tùng,8.0 7.0 1.0 3.0 F
-330 330 AT150362 Nguyễn Lâm Tùng,9.0 8.0 1.0 3.3 F
-331 331 AT150463 Nguyễn Thanh Tùng,8.5 8.0 5.0 6.0 C
-332 332 AT150164 Vũ Viết Tùng,6.0 7.0 5.0 5.4 D+
-333 334 AT140352 Nguyễn Hải Văn,N100 N100
-334 333 AT150661 Phạm Thị Thúy Vân,9.0 8.0 3.0 4.7 D
-335 335 AT150165 Trần Bảo Việt,7.5 10 6.0 6.7 C+
-336 336 AT150562 Trịnh Khắc Vinh,7.0 7.0 3.5 4.6 D
-337 337 AT150265 Nguyễn Công Vĩnh,10 9.0 4.0 5.7 C
-338 338 AT150563 Lê Hoàng Vũ,8.5 6.0 6.0 6.5 C+
-339 339 AT150465 Nguyễn Long Vũ,7.0 6.5 5.0 5.6 C
-340 340 AT150662 Ngô Đoàn Vượng,9.0 7.5 0.0 2.6 F
-341 341 AT150266 Nguyễn Văn Vỹ,10 9.0 4.0 5.7 C
-342 342 AT150364 Bùi Thị Hải Yến,9.0 7.5 8.0 8.2 B+
-343 343 AT150466 Phạm Thị Yến,9.0 7.5 0.0 2.6 F
+AT150201,Bạch Trường An,B+
+AT150101,Vũ Trường An,D
+AT150301,Đào Thị Huyền Anh,C+
+AT150601,Đặng Thị Mai Anh,C
+AT150202,Đỗ Tuấn Anh,D+
+AT150203,Hoàng Việt Anh,B
+AT150602,Kim Việt Anh,C
+AT150403,Lò Thị Ngọc Anh,D+
+AT150502,Mai Đức Nam Anh,B
+AT150402,Nguyễn Đức Anh,F
+AT150603,Nguyễn Đức Anh,C+
+AT150401,Nguyễn Thị Lan Anh,C+
+AT150302,Nguyễn Thị Vân Anh,C+
+AT150503,Trần Thị Ngọc Anh,C
+AT150501,Vũ Tiến Anh,C+
+AT150102,Vũ Trần Hoàng Anh,C
+AT150304,Lê Ngọc Ánh,F
+AT150604,Lê Thị Ngọc Ánh,F
+AT150404,Vũ Hoàng Ánh,F
+AT150504,Vũ Thị Ánh,C+
+AT150305,Đỗ Xuân Bách,D+
+AT150204,Trần Cao Minh Bách,C+
+AT150405,Vũ Hồ Bách,D
+AT150104,Hồ Việt Bắc,B+
+AT150505,Phạm Hữu Bằng,B
+AT150605,Đỗ Quang Bính,F
+AT150105,Vũ Tuấn Cảnh,D
+AT150205,Nguyễn Linh Chi,C+
+AT150206,Bùi Huy Chiến,C
+AT150106,Lê Văn Chiến,C+
+AT150306,Lê Văn Chinh,B
+AT150406,Bùi Thành Công,C+
+AT150506,Ngô Thành Công,B
+AT150307,Trần Văn Công,B
+AT150606,Vũ Tài Cương,D+
+AT150207,Nguyễn Hữu Cường,C
+AT150107,Nguyễn Mạnh Cường,C+
+AT150507,Nguyễn Nam Cường,D+
+AT150407,Nguyễn Trịnh Thanh Cường,F
+AT150308,Nguyễn Văn Cường,B
+AT150109,Phạm Xuân Diệu,C+
+AT150208,Chẩu Đình Doanh,C+
+AT150309,Ngô Anh Duân,D+
+AT150607,Nguyễn Đình Duẩn,C
+AT150609,Đinh Thị Phương Dung,C
+AT150408,Lương Hoài Dung,B
+AT150508,Nguyễn Thùy Dung,D+
+AT150310,Trần Thị Dung,C+
+AT150209,Trịnh Thị Dung,C
+AT150311,Lê Tiến Dũng,F
+AT130310,Nguyễn Tấn Dũng,D
+AT150610,Nguyễn Tấn Dũng,D+
+AT150210,Nguyễn Văn Dũng,D
+AT150509,Nguyễn Văn Dũng,D+
+AT150409,Phùng Đức Dũng,D+
+AT150511,Lại Quang Duy,C+
+AT150312,Nguyễn Đắc Duy,D+
+AT150612,Phạm Đức Duy, ,N25
+AT150313,Đào Văn Dương,D
+AT150108,Hoàng Chấn Dương,D+
+AT150410,Lê Hải Dương,F
+AT150510,Nguyễn Tài Dương,D+
+AT150211,Nguyễn Thùy Dương,C
+AT150611,Nguyễn Tuấn Dương,C
+AT150512,Đặng Trọng Đạt,D
+AT150411,Nguyễn Thành Đạt,F
+AT150110,Nguyễn Tiến Đạt,C
+AT150212,Nguyễn Tuấn Đạt,D
+AT150314,Vũ Thành Đạt,A
+AT150112,Nguyễn Thiện Đô,D
+AT150213,Kiều Văn Đỗ,F
+AT150215,Đỗ Cao Đức,F
+AT150608,Đỗ Huy Đức,D
+AT150315,Nguyễn Hải Đức,F
+AT150513,Nguyễn Trung Đức,D+
+AT150412,Trịnh Đình Đức,F
+AT150113,Vũ Đình Đức,D+
+AT150614,Bùi Tiến Giang,A
+AT150514,Nguyễn Ngọc Trường Giang,C
+AT150413,Phạm Kiều Giang,C+
+AT150515,Lê Minh Hà,C
+AT150414,Lê Thị Ngọc Hà,C
+AT150615,Ngô Xuân Hà,C
+AT150415,Lương Hữu Hải,C
+AT150616,Mai Đại Hải,C+
+AT150117,Nguyễn Đức Hải,D
+AT150116,Nguyễn Thảo Hạnh,B
+AT150217,Nguyễn Quang Hào,B+
+AT150216,Nguyễn Minh Hằng,C
+AT150316,Nguyễn Văn Hậu,D
+AT150518,Nguyễn Đình Hiệp,D+
+AT150619,Nguyễn Hoàng Hiệp,D
+AT150517,Chu Văn Hiếu,C+
+AT150218,Hà Ngọc Hiếu,F
+AT150417,Hoàng Đức Hiếu,F
+AT150119,Lê Trung Hiếu,D+
+AT150317,Nguyễn Đàm Minh Hiếu,C+
+AT150617,Nguyễn Ngọc Hiếu,D+
+AT150416,Nguyễn Trung Hiếu,B
+AT150318,Thân Ngọc Hiếu,C
+AT150118,Trần Minh Hiếu,B+
+AT150618,Lưu Hiệu,C
+AT150418,Vũ Huy Hiệu,D+
+AT150519,Nguyễn Thị Thanh Hoa,D+
+AT150419,Phạm Thị Thanh Hoa,C+
+AT150220,Đặng Thị Thu Hoà,C
+AT150120,Trần Tất Hòa,C+
+AT150320,Đặng Đình Hoàng,D+
+AT150121,Nguyễn Minh Hoàng,B
+AT150421,Nguyễn Viết Hoàng,B+
+AT150319,Nguyễn Việt Hoàng,D+
+AT150521,Nguyễn Việt Hoàng,F
+AT150420,Phạm Thái Hoàng,C
+AT150221,Trịnh Minh Hoàng,D+
+AT130222,Hoàng Trung Học,F
+AT150222,Đào Thuý Hồng,B
+AT150122,Hoàng Nhật Hồng,D
+AT150321,Trần Thị Ánh Hồng,B
+AT150223,Nguyễn Hữu Huân,B
+AT150422,Đỗ Chí Hùng,F
+AT150522,Kiều Việt Hùng,C
+AT130423,Mã Văn Hùng,K
+AT150224,Nguyễn Đình Hùng,D+
+AT150425,Bùi Đoàn Quang Huy,K
+AT150323,Dương Quang Huy,C+
+AT150624,Hoàng Quang Huy,DC
+AT150126,Lê Quang Huy,B+
+AT150227,Nguyễn Hoàng Huy,N ,N100
+AT130623,Nguyễn Quang Huy,B
+AT150226,Nguyễn Quang Huy,D
+AT150525,Nguyễn Quang Huy,C
+AT150127,Nguyễn Quốc Huy,F
+AT150324,Phạm Quang Huy,D
+AT150625,Vũ Quang Huy,C
+AT150228,Lê Minh Huyền,B
+AT150527,Nguyễn Mỹ Huyền,C+
+AT150325,Nguyễn Thị Huyền,C
+AT150626,Nguyễn Thị Ngọc Huyền,F
+AT150326,Phùng Khắc Huynh,F
+AT150124,Tạ Quang Hứa,C
+AT150225,Đỗ Duy Hưng,D
+AT150423,Lê Đức Hưng,D+
+AT150125,Lê Viết Hưng,K
+AT150621,Nguyễn Tiến Hưng,B
+AT150622,Lê Thị Hương,B
+AT150524,Nguyễn Thị Lan Hương,B+
+AT150623,Nguyễn Thị Bích Hường,D+
+AT150424,Đỗ Hữu Hưởng,D+
+AT150327,Mai Văn Khá,B+
+AT130231,Đinh Ngọc Khải,K
+AT150128,Phạm Tiến Khải,F
+AT150129,Nguyễn Trí Khanh,D
+AT150229,Tô Xuân Khanh,N ,N100
+AT150528,Đặng Duy Bảo Khánh,D
+AT150328,Kiều Duy Khánh,B
+AT150427,Phạm Duy Khánh,D+
+AT150329,Phan Trọng Khiêm,C+
+AT150529,Vũ Văn Khiêm,C
+AT150627,Trịnh Văn Kiên,C+
+AT150130,Dương Khánh Lâm,F
+AT150629,Lê Kim Bá Lâm,B
+AT150230,Nguyễn Đình Lâm,B+
+AT150330,Nguyễn Phú Lâm,K
+AT150531,Nguyễn Văn Lâm,B
+AT150530,Trần Tuấn Lâm,C
+AT150428,Võ Thanh Lâm,C+
+AT150532,Nguyễn Duy Linh,D
+AT150331,Nguyễn Thị Linh,B+
+AT150232,Phạm Đỗ Thùy Linh,F
+AT150630,Trịnh Hải Linh,D+
+AT150429,Vũ Thị Thùy Linh,F
+AT150631,Nguyễn Văn Lĩnh,D
+AT150135,Bùi Ngọc Long,D+
+AT150235,Đàm Trung Long,B+
+AT150334,Đào Hải Long,C
+AT150535,Đoàn Ngọc Long,B+
+AT150233,Đỗ Bá Long,B+
+AT150332,Lê Gia Long,D+
+AT150435,Lê Thế Long,F
+AT150236,Nguyễn Đăng Long,B
+AT150136,Nguyễn Hải Long,D
+AT150533,Nguyễn Thanh Long,K
+AT150133,Nguyễn Thành Long,C+
+AT150432,Nguyễn Tiến Long,F
+AT150534,Phạm Ngọc Long,F
+AT150234,Phan Châu Long,D+
+AT150434,Trần Hữu Long, ,N25
+AT150335,Trần Thế Long,C
+AT150536,Vũ Đức Long,D+
+AT150134,Vũ Hoàng Long,F
+AT150333,Vũ Hoàng Long,B
+AT150431,Vũ Hoàng Long,K
+AT150430,Lê Văn Lộc,D+
+AT150237,Vũ Thành Luân,K
+AT150238,Nguyễn Năng Lực,C+
+AT150636,Trần Minh Lương,K
+AT150438,Đoàn Thị Ngọc Mai,F
+AT150138,Đào Văn Mạnh,C+
+AT150239,Hạ Văn Mạnh,C
+AT150336,Nguyễn Đức Mạnh,F
+AT150537,Nguyễn Văn Mạnh,D+
+AT150628,Nguyễn Văn Mạnh,D
+AT150137,Trần Hùng Mạnh,D
+AT150538,Bùi Tuấn Minh,C
+AT150440,Lưu Công Minh,F
+AT150240,Phạm Đức Minh,C
+AT150637,Vũ Bình Minh,B
+AT150139,Vũ Ngọc Minh,D+
+AT150539,Nguyễn Thị Huyền My,F
+AT150638,Đỗ Hoài Nam,D+
+AT150140,Đỗ Văn Nam,F
+AT150241,Lã Hải Nam,F
+AT150540,Trần Văn Nam,D+
+AT150141,Nguyễn Văn Nghĩa,C
+AT150639,Trần Đại Nghĩa,D
+AT150339,Lê Thị Ngọc,C+
+AT150441,Phạm Thị Ngọc,C
+AT150142,Vũ Cao Nguyên,K
+AT150542,Đỗ Quý Nguyễn,C
+AT150640,Hoàng Anh Nhật,K
+AT150243,Lê Minh Nhật,D
+AT150543,Ngô Trí Nhật,C+
+AT150442,Vương Thế Nhật,D
+AT150641,Đỗ Thị Hồng Nhung,C+
+AT150642,Phạm Duy Niên,D
+AT150443,Nguyễn Thị Ninh,C+
+AT150444,Nguyễn Thị Oanh,D
+AT150341,Đinh Thị Hồng Phúc,C+
+AT150342,Đặng Hữu Phụng,D
+AT150343,Nguyễn Đức Phương,C
+AT150145,Nguyễn Thị Phương,C+
+AT150244,Trịnh Việt Phương,C+
+AT150446,Võ Thị Tú Phương,C+
+AT150545,Lê Thị Phượng,A
+AT150447,Vũ Hà Quang,C
+AT150344,Vũ Như Quang,C
+AT140136,Nguyễn Hữu Quảng,D
+AT150643,Trần Văn Quắc,C+
+AT150644,Nguyễn Mạnh Quân,C
+AT150345,Trương Thị Quý,F
+AT150146,Bình Văn Quyền,D
+AT150147,Đỗ Minh Quyết,C
+AT150148,Nguyễn Thị Quỳnh,C+
+AT150149,Phùng Tiến San,B
+AT150150,Lê Công Sản,D+
+AT150245,Lê Văn Sớm,K
+AT150346,Cao Nguyễn Sơn,B
+AT150448,Nguyễn Ngọc Sơn,C+
+AT150547,Quyền Hồng Sơn,C+
+AT150246,Trần Hồng Sơn,K
+AT150449,Nguyễn Thanh Sỹ,A+
+AT150548,Phạm Đức Tài,C
+AT150646,Trương Mạnh Tài,F
+AT150549,Ngô Văn Tâm,C
+AT150247,Nguyễn Mỹ Tâm,C
+AT150248,Phạm Cơ Thạch,F
+AT150647,Hoàng Đức Thái,D
+AT150249,Linh Ngọc Thái,C+
+AT150551,Phạm Văn Thái,B+
+AT150450,Trần Quang Thái,D+
+AT150347,Vương Hồng Thái,C
+AT150648,Đỗ Đình Thanh,F
+AT150348,Vũ Ngọc Thanh,DC
+AT150251,Nguyễn Quang Thành,C
+AT150350,Bùi Tiến Thành,F
+AT150252,Đặng Tiến Thành,C
+AT150152,Đoàn Khắc Thành,B+
+AT150153,Hoàng Văn Thành,C+
+AT150550,Nguyễn Tuấn Thành,C+
+AT150452,Nguyễn Văn Thành,B
+AT150451,Phùng Văn Thành,B+
+AT150649,Trịnh Đình Thành,C
+AT150349,Vũ Duy Thành,C
+AT150453,Hoàng Thị Thảo,B
+AT150553,Nguyễn Thị Phương Thảo,F
+AT150154,Nguyễn Thu Thảo,D+
+AT150650,Đoàn Anh Thắng,D+
+AT150651,Lê Hoàng Đại Thắng,F
+AT150351,Lê Văn Thắng,D+
+AT150552,Quản Đức Thắng,A
+AT150454,Nguyễn Mạnh Thế,C
+AT150455,Hoàng Thị Thêu,C
+AT150456,Ngô Quang Thiên,F
+AT150254,Lê Xuân Thiện,A
+AT150155,Phạm Trọng Thiện,D
+AT150255,Hà Văn Thiệu,B
+AT150554,Nguyễn Tiến Thịnh,C+
+AT150353,Vũ Hưng Thịnh,C+
+AT150652,Phạm Hữu Thông,B+
+AT150156,Phạm Thị Thu,B
+AT150256,Nguyễn Đăng Thuần,C+
+AT150158,Phạm Đặng Thuần,C
+AT150257,Lê Văn Thuận,B
+AT150355,Chu Ngọc Thủy,C+
+AT150457,Phan Thị Thanh Thủy,C
+AT150354,Hoàng Thị Thúy,C+
+AT150157,Trần Thị Huyền Thư,B
+AT150555,Nguyễn Đăng Tiến,D+
+AT150556,Trần Văn Tín,D+
+AT150654,Phan Xuân Tính,D
+AT150160,Trần Đức Toàn,B
+AT150159,Đỗ Văn Toán,D
+AT150655,Trần Văn Toán,K
+AT150656,Bùi Thanh Trà,D
+AT150459,Đào Thị Trang,C
+AT150657,Đào Thị Huyền Trang,C+
+AT150356,Đặng Thị Huyền Trang,B
+AT150258,Trần Thị Trang,B+
+AT150557,Trần Thị Trang,D
+AT150458,Trần Thị Huyền Trang,C
+AT150259,Ngô Thị Trinh,D+
+AT150357,Phạm Thị Diễm Trinh,D+
+AT150161,Đinh Trí Trung,K
+AT150558,Lê Quốc Trung,C+
+AT150460,Lương Quang Trung,F
+AT150260,Nguyễn Quang Trung,C
+AT150162,Ngọc Văn Trường,F
+AT150658,Nguyễn Quang Trường,K
+AT150359,Dương Quốc Tuấn,C+
+AT150461,Đỗ Thanh Tuấn,F
+AT150262,Hoàng Minh Tuấn, ,N25
+AT150360,Nguyễn Anh Tuấn,D
+AT150462,Nguyễn Anh Tuấn,B
+AT150659,Nguyễn Quốc Tuấn , ,K
+AT150559,Nguyễn Trọng Tuấn,C+
+AT150560,Trần Anh Tuấn,D+
+AT150263,Trần Quang Tuấn,B
+AT150361,Tạ Ngọc Tuệ,D+
+AT150561,Lê Thanh Tùng,F
+AT150362,Nguyễn Lâm Tùng,F
+AT150463,Nguyễn Thanh Tùng,C
+AT150164,Vũ Viết Tùng,D+
+AT140352,Nguyễn Hải Văn,N ,N100
+AT150661,Phạm Thị Thúy Vân,D
+AT150165,Trần Bảo Việt,C+
+AT150562,Trịnh Khắc Vinh,D
+AT150265,Nguyễn Công Vĩnh,C
+AT150563,Lê Hoàng Vũ,C+
+AT150465,Nguyễn Long Vũ,C
+AT150662,Ngô Đoàn Vượng,F
+AT150266,Nguyễn Văn Vỹ,C
+AT150364,Bùi Thị Hải Yến,B+
+AT150466,Phạm Thị Yến,F
